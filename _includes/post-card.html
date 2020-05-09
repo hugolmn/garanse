@@ -3,7 +3,7 @@
     {% if post.image %}
       <div class="post__content">
         <div id="markdown" itemprop="articleBody">
-          <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}"  data-aos="fade-in"/>
+          <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}"/>
           <!-- <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" data-aos="fade-in" itemprop="image"/> -->
         </div>
       </div>
@@ -11,8 +11,15 @@
         <!-- <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" data-aos="fade-in" itemprop="image"/> -->
       <!-- </figure> -->
     {% endif %}
-    <div>
-      <h2 class="posts__text"><strong itemprop="name">{{ post.title }}</strong> — <span itemprop="description">{{ post.content | strip_html | truncatewords: 35, "" }}</span></h2>
+      <!-- <h3 class="posts__text"><i itemprop="name"><center>{{ post.title }}</center></i> — <span itemprop="description">{{ post.content | strip_html | truncatewords: 35, "" }}</span></h3> -->
+    <div class="painting-title">
+      &laquo; {{ post.title }} &raquo;
+    </div>
+    <div class="painting-title-author">
+      {{ post.title_author }}
+    </div>
+    <div class="painting-details">
+      {{ post.technique }} - {{ post.dimensions }} - {{ post.price }}€
     </div>
   <!-- </a> -->
 </article>
