@@ -65,6 +65,14 @@ autopages:
       mode: raw
       cased: true
 
+# Image size
+image-size:
+  - 240
+  - 360
+  - 480
+  - 720
+  - 1080
+
 # Build settings
 markdown: kramdown
 plugins:
@@ -84,3 +92,4 @@ exclude:
   - package.json
   - README.md
   - vendor
+  # - style-guide.html
