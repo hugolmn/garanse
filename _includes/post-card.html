@@ -3,7 +3,21 @@
     {% if post.image %}
       <div class="post__content">
         <div id="markdown" itemprop="articleBody">
-          <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}"/>
+          <img
+            src="{{ post.image | prepend: '/assets/images/' | prepend: site.baseurl }}"
+            srcset="{{ post.image | prepend: '/assets/images/240/' | prepend: site.baseurl }} 240w,
+                  {{ post.image | prepend: '/assets/images/360/' | prepend: site.baseurl }} 360w,
+                  {{ post.image | prepend: '/assets/images/480/' | prepend: site.baseurl }} 480w,
+                  {{ post.image | prepend: '/assets/images/720/' | prepend: site.baseurl }} 720w,
+                  {{ post.image | prepend: '/assets/images/1080/' | prepend: site.baseurl }} 1080w"
+            sizes="(max-width: 239px) 240px,
+                  (max-width: 359px) 360px,
+                  (max-width: 479px) 480px,
+                  (max-width: 719px) 720px,
+                  (max-width: 1079px) 1080px,
+                  480px"
+            alt="{{ post.title }}"
+          />
           <!-- <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" data-aos="fade-in" itemprop="image"/> -->
         </div>
       </div>
