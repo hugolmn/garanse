@@ -1,4 +1,4 @@
-dimensions=(1440 1080 720 480 360 240)
+dimensions=(1080 720 480 360 240)
 mkdir -p "${dimensions[@]}"
 
 for folder in "${dimensions[@]}"

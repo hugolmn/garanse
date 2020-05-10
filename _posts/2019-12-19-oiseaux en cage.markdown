@@ -6,7 +6,7 @@ date: 2019-12-19
 technique: Huile sur toile
 dimensions: 80x80
 price: 500
-image: /assets/images/DSC_1263.jpg
+image: DSC_1263.jpg
 author: Garanse
 tags:
   - Rouge

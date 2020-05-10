@@ -6,7 +6,7 @@ date: 2019-12-20
 technique: Huile sur toile
 dimensions: 89x116
 price: 800 
-image: /assets/images/DSC_1462_(2).JPG
+image: DSC_1462_(2).JPG
 author: Garanse
 tags: 
   - Noir
