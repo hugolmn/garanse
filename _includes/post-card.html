@@ -5,15 +5,13 @@
         <div id="markdown" itemprop="articleBody">
           <img
             class=""
-            src="{{ post.image | replace: 'JPG', 'jpg' | prepend: '/assets/images/fullsize/' | prepend: site.baseurl }}"
+            src="{{ post.image | replace: 'JPG', 'jpg' | prepend: '/assets/images/480/' | prepend: site.baseurl }}"
             srcset="{% for size in site.image-size %}
                 {{ post.image | replace: 'JPG', 'jpg' | prepend: '/' | prepend: size | prepend: '/assets/images/' | prepend: site.baseurl }} {{ size }}w,
                   {% endfor %}"
-            sizes="(max-width: 239px) 240px,
-                  (max-width: 359px) 360px,
-                  (max-width: 479px) 480px,
-                  (max-width: 719px) 720px,
-                  (max-width: 1079px) 1080px,
+            sizes="(max-width: 54em) 100vw,
+                  (max-width: 90em) 48vw,
+                  (min-width: 91em) 27vw,
                   480px"
             alt="{{ post.title }}"
             data-action="zoom"
@@ -26,14 +24,25 @@
       <!-- </figure> -->
     {% endif %}
       <!-- <h3 class="posts__text"><i itemprop="name"><center>{{ post.title }}</center></i> — <span itemprop="description">{{ post.content | strip_html | truncatewords: 35, "" }}</span></h3> -->
-    <div class="painting-title">
-      &laquo; {{ post.title }} &raquo;
-    </div>
-    <div class="painting-title-author">
-      {{ post.title_author }}
-    </div>
-    <div class="painting-details">
-      {{ post.technique }} - {{ post.dimensions }} - {{ post.price }}€
+    <div class="description">
+      <div class="painting-title">
+        &laquo;&nbsp;{{ post.title }}&nbsp;&raquo;
+      </div>
+      <div class="painting-title-author">
+        {{ post.title_author }}
+      </div>
+      <div class="painting-details">
+        {{ post.technique }} - {{ post.dimensions }}
+      </div>
+      {% if post.price %}
+      <div class="painting-price">
+        Prix : {{ post.price }}€
+      </div>
+      {% else %}
+      <div class="painting-price">
+        Vendu
+      </div>
+      {% endif %}
     </div>
   <!-- </a> -->
 </article>
