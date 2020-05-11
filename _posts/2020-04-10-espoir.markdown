@@ -1,0 +1,15 @@
+---
+layout: painting
+title: "Si notre coeur n'était pas intimement lié à l'espoir, nous ne trouverions pas la force de soulever le poids de nos paupières chaque matin"
+title_author: John Joos
+date: 2020-04-10
+technique: Huile sur toile
+dimensions: 80x80
+price: 500
+image: DSC_1466_(5).JPG
+author: Garanse
+tags:
+  - Bleu
+  - Blanc
+---
+![Image]({{ page.image | prepend: site.baseurl}})

@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "L'oiseau en cage ne sait pas qu'il ne sait pas voler." 
+title: "L'oiseau en cage ne sait pas qu'il ne sait pas voler."
 title_author: Jules Renard
 date: 2019-12-19
 technique: Huile sur toile

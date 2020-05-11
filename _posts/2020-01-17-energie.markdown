@@ -1,0 +1,16 @@
+---
+layout: painting
+title: "Je crois en une vie après la mort. Tout simplement parce que l'énergie ne peut pas mourir ; elle circule, se transforme et ne s'arrête jamais."
+title_author: Albert Einstein
+date: 2020-01-17
+technique: Huile sur toile
+dimensions: 100x100
+price: 800
+image: DSC_1358_(2).JPG
+author: Garanse
+tags:
+  - Noir
+  - Rouge
+  - jaune
+---
+![Image]({{ page.image | prepend: site.baseurl}})
