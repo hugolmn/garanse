@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: page
 title: "Ateliers"
 image : DSC_0243.JPG
+author : Garanse
 ---
 
 # Atelier de lâcher-prise chez Garanse
@@ -10,9 +11,9 @@ Je vous propose une expérience autour de la peinture intuitive et le lâcher-pr
 
 Vous avez déjà peint ou vous êtes totalement novices en matière de peinture ?
 
-Vous êtes TOUS et TOUTES les bienvenus !
+Vous êtes **toutes** et **tous** les bienvenus !
 
-Tentez l'aventure ! Vous serez agréablement surpris(es) par les bienfaits de cette pratique !
+Tentez l'aventure ! Vous serez agréablement surpris·es par les bienfaits de cette pratique !
 
 Je fournis le matériel, la blouse y compris.
 
@@ -22,14 +23,14 @@ Je fournis le matériel, la blouse y compris.
 
 ### Tarifs
 
-- 40€/pers en individuel
-- 35€/pers en duo
+- 40€ / personne en individuel
+- 35€ / personne en duo
 
 ### Lieux
 
-Les ateliers se déroulent dans mon propre atelier à Cangey, en Indre-et-Loire (à 10 minutes d'Amboise)
+Les ateliers se déroulent dans mon propre atelier à Cangey, en Indre-et-Loire (à 10 minutes d'Amboise).
 
-## Témoignages
+### Témoignages
 ---
 <blockquote>
     <p>
@@ -39,4 +40,4 @@ Les ateliers se déroulent dans mon propre atelier à Cangey, en Indre-et-Loire 
 </blockquote>
 ---
 
-![DSC_1099](/assets/images/1080/DSC_1099.JPG)
+![DSC_1099]({{ 'DSC_1099.jpg' | prepend: '/assets/images/1080/' | prepend: site.baseurl }})
