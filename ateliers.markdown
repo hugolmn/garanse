@@ -25,12 +25,16 @@ Je fournis le matériel, la blouse y compris.
 
 - 40€ / personne en individuel
 - 35€ / personne en duo
+- Possibilité d'offrir des bons ***"Atelier Cadeau"***
 
 ### Lieux
 
 Les ateliers se déroulent dans mon propre atelier à Cangey, en Indre-et-Loire (à 10 minutes d'Amboise).
 
-### Témoignages
+### Réservation
+
+Possibilités : du lundi au samedi, en journée ou en soirée, en fonction de vos disponibilités.
+
 ---
 <blockquote>
     <p>

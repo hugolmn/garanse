@@ -37,8 +37,8 @@ social:
 # Author settings
 author:
   - name: Garanse
-    bio: Blabla
-    url: http://garanse.github.io
+    bio: Garanse est une artiste-peintre autodidacte, spécialisée dans la peinture intuitive à l'huile.
+    url: http://garanse.github.io/a-propos/index.html
 
 # Pagination settings
 pagination:
