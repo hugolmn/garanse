@@ -2,21 +2,22 @@
   <!-- <a class="posts__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url"> -->
     {% if post.image %}
       <div class="post__content">
-        <div id="markdown" itemprop="articleBody">
-          <img
-            class=""
-            src="{{ post.image | replace: 'JPG', 'jpg' | prepend: '/assets/images/480/' | prepend: site.baseurl }}"
-            srcset="{% for size in site.image-size %}
+        <!-- <div id="markdown" itemprop="articleBody"> -->
+        <div id="markdown">
+          <a class="chocolat-image"
+            href="{{ post.image | replace: 'JPG', 'jpg' | prepend: '/assets/images/1080/' | prepend: site.baseurl }}"
+            data-srcset="{% for size in site.image-size %}
                 {{ post.image | replace: 'JPG', 'jpg' | prepend: '/' | prepend: size | prepend: '/assets/images/' | prepend: site.baseurl }} {{ size }}w,
                   {% endfor %}"
-            sizes="(max-width: 54em) 100vw,
+            data-sizes="(max-width: 54em) 100vw,
                   (max-width: 90em) 48vw,
                   (min-width: 91em) 27vw,
                   480px"
-            alt="{{ post.title }}"
-            data-action="zoom"
-          />
-        </div>
+            title="{{ post.title }}"
+            <!-- data-action="zoom" -->
+          >
+          <img src="{{ post.image | replace: 'JPG', 'jpg' | prepend: '/assets/images/480/' | prepend: site.baseurl }}"/>
+        </a>
       </div>
     {% endif %}
     <div class="description">
