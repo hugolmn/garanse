@@ -3,20 +3,25 @@
     {% if post.image %}
       <div class="post__content">
         <!-- <div id="markdown" itemprop="articleBody"> -->
-        <div id="markdown">
+        <!-- <div id="markdown"> -->
+        <div>
           <a class="chocolat-image"
             href="{{ post.image | replace: 'JPG', 'jpg' | prepend: '/assets/images/1080/' | prepend: site.baseurl }}"
             data-srcset="{% for size in site.image-size %}
                 {{ post.image | replace: 'JPG', 'jpg' | prepend: '/' | prepend: size | prepend: '/assets/images/' | prepend: site.baseurl }} {{ size }}w,
                   {% endfor %}"
-            data-sizes="(max-width: 54em) 100vw,
-                  (max-width: 90em) 48vw,
-                  (min-width: 91em) 27vw,
-                  480px"
+            data-sizes="90vw"
             title="{{ post.title }}"
             <!-- data-action="zoom" -->
           >
-          <img src="{{ post.image | replace: 'JPG', 'jpg' | prepend: '/assets/images/480/' | prepend: site.baseurl }}"/>
+          <img src="{{ post.image | replace: 'JPG', 'jpg' | prepend: '/assets/images/480/' | prepend: site.baseurl }}"
+               srcset="{% for size in site.image-size %}
+                       {{ post.image | replace: 'JPG', 'jpg' | prepend: '/' | prepend: size | prepend: '/assets/images/' | prepend: site.baseurl }} {{ size }}w,
+                       {% endfor %}"
+               sizes="(max-width: 54em) 100vw,
+                     (max-width: 90em) 48vw,
+                     (min-width: 91em) 27vw,
+                     480px"/>
         </a>
       </div>
     {% endif %}
