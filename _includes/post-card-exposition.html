@@ -1,0 +1,29 @@
+<article class="posts__post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+    {% if exposition.image %}
+      <div class="post__content">
+        <div>
+          <a class="chocolat-image"
+            href="{{ exposition.image | replace: 'JPG', 'jpg' | prepend: '/assets/expositions/' | prepend: site.baseurl }}"
+            <!-- data-srcset="{% for size in site.image-size %}
+                {{ exposition.image | replace: 'JPG', 'jpg' | prepend: '/' | prepend: size | prepend: '/assets/images/' | prepend: site.baseurl }} {{ size }}w,
+                  {% endfor %}"
+            data-sizes="90vw" -->
+            <!-- title="{{ post.title }}" -->
+          >
+          <img src="{{ exposition.image | replace: 'JPG', 'jpg' | prepend: '/assets/expositions/' | prepend: site.baseurl }}"
+               <!-- srcset="{% for size in site.image-size %}
+                       {{ exposition.image | replace: 'JPG', 'jpg' | prepend: '/' | prepend: size | prepend: '/assets/images/' | prepend: site.baseurl }} {{ size }}w,
+                       {% endfor %}"
+               sizes="(max-width: 54em) 100vw,
+                     (max-width: 90em) 48vw,
+                     (min-width: 91em) 27vw,
+                     480px"/> -->
+        </a>
+      </div>
+    {% endif %}
+    <div class="description">
+      <div class="exposition-title">
+        &laquo;&nbsp;{{ exposition.title }}&nbsp;&raquo;
+      </div>
+    </div>
+</article>

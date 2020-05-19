@@ -65,6 +65,10 @@ autopages:
       mode: raw
       cased: true
 
+collections:
+  expositions:
+    permalink: /expositions/:path/
+
 # Image size
 image-size:
   - 240
