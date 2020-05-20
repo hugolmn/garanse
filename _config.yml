@@ -59,7 +59,7 @@ autopages:
   tags:
     layouts:
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'Garanse'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
@@ -67,7 +67,8 @@ autopages:
 
 collections:
   expositions:
-    permalink: /expositions/:path/
+    permalink: /:collection/:path/
+    output: true
 
 # Image size
 image-size:
