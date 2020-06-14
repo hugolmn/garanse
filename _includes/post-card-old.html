@@ -5,6 +5,15 @@
         <!-- <div id="markdown" itemprop="articleBody"> -->
         <!-- <div id="markdown"> -->
         <div>
+          <a class="chocolat-image"
+            href="{{ post.image | replace: 'JPG', 'jpg' | prepend: '/assets/images/1080/' | prepend: site.baseurl }}"
+            data-srcset="{% for size in site.image-size %}
+                {{ post.image | replace: 'JPG', 'jpg' | prepend: '/' | prepend: size | prepend: '/assets/images/' | prepend: site.baseurl }} {{ size }}w,
+                  {% endfor %}"
+            data-sizes="90vw"
+            title="{{ post.title }}"
+            <!-- data-action="zoom" -->
+          >
           <img src="{{ post.image | replace: 'JPG', 'jpg' | prepend: '/assets/images/480/' | prepend: site.baseurl }}"
                srcset="{% for size in site.image-size %}
                        {{ post.image | replace: 'JPG', 'jpg' | prepend: '/' | prepend: size | prepend: '/assets/images/' | prepend: site.baseurl }} {{ size }}w,
@@ -13,6 +22,7 @@
                      (max-width: 90em) 48vw,
                      (min-width: 91em) 27vw,
                      480px"/>
+        </a>
       </div>
     {% endif %}
     <div class="description">
