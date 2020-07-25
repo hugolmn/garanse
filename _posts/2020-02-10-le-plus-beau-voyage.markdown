@@ -10,10 +10,10 @@ image: DSC_1423.JPG
 author: Garanse
 tags:
   - Gris
-  - Blanc
   - Rose
   - Vert
   - Jaune
---- 
+---
 
 ![Image]({{ page.image | prepend: site.baseurl}})
+

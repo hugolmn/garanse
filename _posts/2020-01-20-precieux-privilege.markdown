@@ -10,6 +10,6 @@ image: DSC_1360_(3).JPG
 author: Garanse
 tags:
   - Bleu
-  - Blanc
+ 
 ---
 ![Image]({{ page.image | prepend: site.baseurl}})

@@ -10,7 +10,6 @@ image: DSC_1462_(2).JPG
 author: Garanse
 tags:
   - Noir
-  - Blanc
   - Jaune
   - Gris
 ---

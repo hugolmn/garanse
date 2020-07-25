@@ -11,6 +11,5 @@ author: Garanse
 tags:
   - Bleu
   - Vert
-  - Blanc
 ---
 ![Image]({{ page.image | prepend: site.baseurl}})
