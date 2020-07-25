@@ -5,7 +5,7 @@ title_author: Jules Verne
 date: 2019-12-20
 technique: Huile sur toile
 dimensions: 89x116
-price: 800
+price:
 image: DSC_1245_(2).JPG
 author: Garanse
 tags: 
