@@ -5,7 +5,7 @@ title_author: Antonio Gramsci
 date: 2020-06-02
 technique: Huile sur toile
 dimensions: 46x55
-price: 350
+price: 
 image: DSC_14901_(2).JPG
 author: Garanse
 tags:

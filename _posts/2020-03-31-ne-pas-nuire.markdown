@@ -5,7 +5,7 @@ title_author: Dalaï Lama
 date: 2020-03-31
 technique: Huile sur toile
 dimensions: 60x73
-price: 450
+price: 
 image: DSC_1466_(2).JPG
 author: Garanse
 tags:

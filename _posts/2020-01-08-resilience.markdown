@@ -5,7 +5,7 @@ title_author: Boris Cyrulnik
 date: 2020-01-08
 technique: Huile sur toile
 dimensions: 50x50
-price: 350
+price: 
 image: DSC_1352_(3).JPG
 author: Garanse
 tags:

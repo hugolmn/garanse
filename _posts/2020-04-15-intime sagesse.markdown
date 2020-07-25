@@ -5,7 +5,7 @@ title_author: John Joos
 date: 2020-04-15
 technique: Huile sur toile
 dimensions: 40x40
-price: 300
+price: 
 image: DSC_1470_(2).JPG
 author: Garanse
 tags:
