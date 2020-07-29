@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: « On cherche toujours à ouvrir une fenêtre sur cet horizon »       
+title: "On cherche toujours à ouvrir une fenêtre sur cet horizon."       
 title_author: John JOOS
 date: 2020-06-29
 technique: Huile sur toile

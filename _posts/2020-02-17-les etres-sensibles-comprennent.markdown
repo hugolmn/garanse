@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: « Tous peuvent entendre, mais seuls les êtres sensibles comprennent. » 
+title: "Tous peuvent entendre, mais seuls les êtres sensibles comprennent." 
 title_author: Khalil Gibran
 date: 2020-02-17
 technique: Huile sur toile
@@ -12,5 +12,5 @@ tags:
   - Boir
   - Blanc
   - Rouge
---- 
+---
 ![Image]({{ page.image | prepend: site.baseurl}})

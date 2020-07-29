@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "Le trauma fracasse, c'est sa définition. Et la résilience qui permet de se remettre à vivre associe la souffrance avec le plaisir de triompher. Curieux couple ! " 
+title: "Le trauma fracasse, c'est sa définition. Et la résilience qui permet de se remettre à vivre associe la souffrance avec le plaisir de triompher. Curieux couple !" 
 title_author: Boris Cyrulnick
 date: 2020-05-14
 technique: Huile sur toile

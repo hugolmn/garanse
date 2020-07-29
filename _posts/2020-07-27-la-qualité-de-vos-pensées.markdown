@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: « Le Bonheur de votre vie dépend de la qualité de vos pensées. »       
+title: "Le Bonheur de votre vie dépend de la qualité de vos pensées."       
 title_author: Marc Aurèle
 date: 2020-07-27
 technique: Huile sur toile

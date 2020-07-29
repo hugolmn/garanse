@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: « Le pessimiste se plaint du vent, l’optimiste espère qu’il va changer, le réaliste ajuste ses voiles. »  
+title: "Le pessimiste se plaint du vent, l’optimiste espère qu’il va changer, le réaliste ajuste ses voiles."  
 title_author: William Arthur Ward
 date: 2019-11-08
 technique: Huile sur toile

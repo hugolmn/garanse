@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: « Il est absolument possible qu’au-delà de ce que perçoivent nos sens, se cachent des mondes insoupçonnés » 
+title: "Il est absolument possible qu’au-delà de ce que perçoivent nos sens, se cachent des mondes insoupçonnés." 
 title_author: Albert Einstein 
 date: 2019-10-12
 technique: Huile sur toile
