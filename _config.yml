@@ -69,6 +69,7 @@ collections:
   expositions:
     permalink: /:collection/:path/
     output: true
+    sort_by: date
 
 # Image size
 image-size:
