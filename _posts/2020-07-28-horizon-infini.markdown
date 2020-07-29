@@ -1,0 +1,17 @@
+---
+layout: painting
+title: « L'horizon souligne l'infini »       
+title_author: Victor Hugo
+date: 2020-07-27
+technique: Huile sur toile
+dimensions: 22x27
+price: 120€
+image:  DSC_1580(2).JPG
+author: Garanse
+tags:
+  - Bleu
+  
+  
+---
+![Image]({{ page.image | prepend: site.baseurl}})
+
