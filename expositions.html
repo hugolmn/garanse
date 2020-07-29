@@ -8,7 +8,7 @@ pagination:
   <div class="grid-xlarge">
     <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
 
-      {% for exposition in site.expositions %}
+      {% for exposition in site.expositions reversed %}
 
         {% include post-card-exposition.html %}
 
