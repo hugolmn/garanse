@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Titre de mon exposition
+title: Exposition Garanse 
 image: 86267768_893410337782375_9161018096788439040_n.jpg
-date: 2020-07-29
+date: 2020-08-23
 ---
 
 # Titre de mon article
