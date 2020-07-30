@@ -40,6 +40,15 @@ author:
     bio: Garanse est une artiste-peintre autodidacte, spécialisée dans la peinture intuitive à l'huile.
     url: http://garanse.github.io/a-propos/index.html
 
+future: true
+collections:
+  expositions:
+    output: true
+    permalink: /:collection/:name
+    sort_by: date
+
+
+
 # Pagination settings
 pagination:
   enabled: true
@@ -64,12 +73,6 @@ autopages:
     slugify:
       mode: raw
       cased: true
-
-collections:
-  expositions:
-    permalink: /:collection/:path/
-    output: true
-    sort_by: date
 
 # Image size
 image-size:

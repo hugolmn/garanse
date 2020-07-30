@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Exposition Garanse à Compiègne
-image: AFFICHECOMPIEGNE.jpg
+title: "Exposition Garanse à Compiègne"
+affiche: AFFICHECOMPIEGNE.jpg
 date: 2020-08-23
 ---
-
-# {{ page.title }}
 
 Je vous donne rendez-vous le Samedi 22 Août de 14h30 à 19h00, et le Dimanche de 11h à 13h puis de 14h30 à 19h, chez Mr et Mme Stephan Van Audenheghe à Compiègne, 14 Avenue Alphonse Chovet.
 
@@ -15,3 +13,4 @@ J'y exposerai une partie de ma collection de toiles pour la première fois dans 
 
 A très bientôt !
 
+​	
