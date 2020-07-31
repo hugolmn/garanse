@@ -1,0 +1,23 @@
+---
+layout: painting
+title: "Sous le soleil des favelas, les enfants des rues ne sont que des ombres d’une société ayant eu toujours une peur bleue de ses reflets."         
+title_author: Souleymane Boel 
+date: 2020-07-31
+technique: Huile sur toile
+dimensions: 27x35
+price: 250
+image:  DSC_1588(3).JPG
+author: Garanse
+tags:
+  - Vert
+  - Bleu
+  - Noir
+  - Jaune
+  
+  
+  
+  
+  
+---
+![Image]({{ page.image | prepend: site.baseurl}})
+

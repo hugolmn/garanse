@@ -9,7 +9,7 @@ date: 2020-07-30
 technique: Huile sur toile
 dimensions: 65x100
 price: 650
-image:  DSC_1586(2).JPG
+image:  DSC_1586(4).JPG
 author: Garanse
 tags:
   - Gris
