@@ -1,23 +1,16 @@
 ---
 layout: post
-title: "Exposition Garanse à Saint-Vincent-sur-Graon"
-affiche: 0001 (1).jpg
-date: 2020-07-12
+title: "Exposition Garanse à Compiègne"
+affiche: AFFICHECOMPIEGNE.jpg
+date: 2020-08-23
 ---
 
-Je vous donne rendez-vous le Dimanche 12 Juillet de 11h à 19h, chez mon ami Mr Frédéric Lebrun à Saint-Vincent-sur-Graon.
+Je vous donne rendez-vous le Samedi 22 Août de 14h30 à 19h00, et le Dimanche de 11h à 13h puis de 14h30 à 19h, chez Mr et Mme Stephan Van Audenheghe à Compiègne, 14 Avenue Alphonse Chovet.
 
-Je suis très heureuse d'exposer mes toiles pour la première fois en Vendée !
+Cela se situe dans le quartier du Petit Margny.
 
-L'exposition se déroulera en extérieur, idéal pour respecter les règles sanitaires.
-
-Du gel sera mis à votre disposition et le port du masque est vivement conseillé.
+J'y exposerai une partie de ma collection de toiles pour la première fois dans ce petit jardin coquet et chaleureux.
 
 A très bientôt !
 
-
-
-Vous trouverez ci-joint les articles écrits par le correspondant de Ouest France !
-
-- **[Saint-Vincent-sur-Graon. La magie de Garanse s’expose au premier Art’app’art](https://www.ouest-france.fr/pays-de-la-loire/saint-vincent-sur-graon-85540/saint-vincent-sur-graon-la-magie-de-garanse-s-expose-au-premier-art-app-art-6898800)**
-- **[Saint-Vincent-sur-Graon. Art’app’art : Garanse enchante le jardin de la Moratière](https://www.ouest-france.fr/pays-de-la-loire/saint-vincent-sur-graon-85540/saint-vincent-sur-graon-art-app-art-garanse-enchante-le-jardin-de-la-moratiere-6906806)**
+​	
