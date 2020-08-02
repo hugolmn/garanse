@@ -2,7 +2,7 @@
 email: annegaranse@gmail.com
 baseurl: "https://garanse.github.io"
 permalink: /:year/:month/:day/:title/
-google_analytics:
+google_analytics: UA-169857487-1
 
 name: Garanse
 title: Garanse
