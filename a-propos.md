@@ -11,6 +11,8 @@ Ma peinture répond toujours à un besoin d'exprimer sur une toile mon inconscie
 
 Chaque tableau est accompagné d'une citation qui fait écho aux émotions ressenties lors de ma création, invitant ceux qui le souhaitent à une réflexion sur la vie !
 
+
+
 ## Où découvrir mes toiles ?
 
 ### Réseaux sociaux
@@ -23,12 +25,21 @@ Vous pouvez retrouver l'ensemble de mes œuvres sur :
 
 ### A mon atelier
 
-Sur rendez-vous en me contactant au 06 63 77 80 84.
-21, rue de Monteaux, 37530 Cangey (à 10 min d'Amboise en direction de Blois)
+Mon atelier se situe au 21, rue de Monteaux, 37530 Cangey (à 10 min d'Amboise en direction de Blois)
+
+Visite de préférence sur rendez-vous en me contactant au préalable :
+
+- tel : 06 63 77 80 84 
+
+- courriel : annegaranse@gmail.com
 
 ### Expositions
 
-Je participe à différentes expositions en Touraine ainsi que dans d'autres régions en France.
+Je participe à différents salons de peinture en Touraine. 
+
+Plusieurs fois par an, j'ouvre les portes de mon atelier au public pour permettre aux visiteurs de découvrir l'ensemble de mes toiles.
+
+J'organise également régulièrement des expos en solo chez des particuliers, chez des amis ou dans la famille, qui souhaitent faire découvrir mes œuvres à leur entourage dans un contexte convivial. Parfois en Touraine mais aussi dans d'autres régions en France (Sud-Ouest, Bretagne, Picardie, Région parisienne...)
 
 ---
 <blockquote>
@@ -36,3 +47,8 @@ Je participe à différentes expositions en Touraine ainsi que dans d'autres ré
   <cite>Garanse</cite>
 </blockquote>
 ---
+
+
+
+
+
