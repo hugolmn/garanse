@@ -1,10 +1,18 @@
 <article class="posts__post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
     {% if exposition.affiche %}
+      {% assign content = exposition.content | strip_nenwlines %}
+      {% if content and content != blank %}
         <a class="posts__link" href="{{ exposition.url | prepend: site.baseurl }}" itemprop="url">
           <img src="{{ exposition.affiche | replace: 'JPG', 'jpg' | prepend: '/assets/images/expositions/' | prepend: site.baseurl }}"
                alt="{{ exposition.title }}"
                data-aos="fade-in"
                itemprop="image"/>
         </a>
+      {% else %}
+        <img src="{{ exposition.affiche | replace: 'JPG', 'jpg' | prepend: '/assets/images/expositions/' | prepend: site.baseurl }}"
+             alt="{{ exposition.title }}"
+             data-aos="fade-in"
+             itemprop="image"/>
+      {% endif %}
     {% endif %}
 </article>
