@@ -5,7 +5,7 @@ title_author:  Gustave Flaubert
 date: 2020-08-18
 technique: Huile sur toile
 dimensions: 46x55
-price: 350
+price: 
 image:  DSC_1611(2).JPG
 author: Garanse
 tags:
