@@ -5,7 +5,7 @@ title_author: Edgar Morin
 date: 2020-07-27
 technique: Huile sur toile
 dimensions: 46x55
-price: 350
+price: 
 image:  DSC_1578(2).JPG
 author: Garanse
 tags:
