@@ -5,7 +5,7 @@ title_author: Boris Cyrulnick
 date: 2020-05-14
 technique: Huile sur toile
 dimensions: 100x100
-price: 800
+price: 
 image: DSC_1475_(2).JPG
 author: Garanse
 tags:

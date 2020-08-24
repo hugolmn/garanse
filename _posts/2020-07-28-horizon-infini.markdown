@@ -5,7 +5,7 @@ title_author: Victor Hugo
 date: 2020-07-28
 technique: Huile sur toile
 dimensions: 22x27
-price: 120
+price: 
 image:  DSC_1580(2).JPG
 author: Garanse
 tags:
