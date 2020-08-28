@@ -11,7 +11,10 @@ pagination:
       {% for post in paginator.posts %}
 
         <!-- The tag below includes the markup for each post - partials/post-card.html -->
-        {% include post-card.html %}
+        {% if post.price %}
+          <!-- The tag below includes the markup for each post - partials/post-card.html -->
+          {% include post-card.html %}
+        {% endif %}
 
       {% endfor %}
     </div>
