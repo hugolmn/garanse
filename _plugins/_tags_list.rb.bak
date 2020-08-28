@@ -36,8 +36,7 @@ module Jekyll
           end
         end
 
-        #html = "<ul class=\"footer__tags\">"
-		html = "<div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdownMenuLink\">"
+        html = "<ul class=\"footer__tags\">"
 
         tag_count = 1
 
@@ -45,14 +44,12 @@ module Jekyll
           if tag_count > @limit && @limit != 0
             break
           end
-          html << "<a class=\"dropdown-item\" href=\"https:\/\/garanse.github.io/tag/#{tag.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')}\">#{tag.split.map(&:capitalize)*' '}</a>"
+          html << "<li><a class=\"footer__link\" href=\"/tag/#{tag.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')}\">#{tag.split.map(&:capitalize)*' '}</a></li>"
           tag_count = tag_count + 1
         end
-		
-		html << "<\div>"
-        #html << "</ul>"
-      
-	  end
+
+        html << "</ul>"
+      end
 
       private
 
