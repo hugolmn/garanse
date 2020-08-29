@@ -12,10 +12,10 @@ url:
 # twitter_username: thomasvaeth
 # default_img: /assets/images/seo.jpg
 social:
-  - name: instagram
-    url: https://www.instagram.com/annegaranse
   - name : facebook
     url: https://www.facebook.com/profile.php?id=100013402509434
+  - name: instagram
+    url: https://www.instagram.com/annegaranse
   # - name: linkedin
     # url: https://www.linkedin.com/in/thomasvaeth/
   # - name: github
