@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: annegaranse@gmail.com
-baseurl: "https://garanse.github.io"
+baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: UA-169857487-1
 
