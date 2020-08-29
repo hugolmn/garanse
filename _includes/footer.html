@@ -1,14 +1,25 @@
 <footer class="text-muted bg-light pt-5 pb-4 mt-5">
   <div class="container">
-    <p class="float-right">
-      <a href="#">Retour en haut</a>
-    </p>
-    <p><a class="font-weight-bold" href="http://garanse.github.io/a-propos">Garanse</a> est une artiste-peintre autodidacte, spécialisée dans la peinture intuitive à l'huile.</p>
-    <p>Site réalisé par <a href="https://hugolmn.github.io">@hugolmn</a></p>
-      <!-- include social.html -->
+    <div class="row d-flex justify-content-between">
+    <div class="col-12 col-xl-10">
+      <p>
+        {% include social.html %}
+        <a class="font-weight-bold" href="http://garanse.github.io/a-propos">Garanse</a> est une artiste-peintre autodidacte, spécialisée dans la peinture intuitive à l'huile.
+      </p>
+      <p>
+        Site réalisé par <a href="https://hugolmn.github.io">@hugolmn</a>
+      </p>
+    </div>
+    <div class="col">
+      <a class="text-right" href="#">Retour en haut</a>
+    </div>
+    
+    {% if paginator.next_page %}
+    <script>
+      var maxPages = parseInt('{{ paginator.total_pages }}');
+    </script>
+    {% endif %}
 
-      <!-- include contact.html -->
-
-      <script src="{{ '/assets/js/app.min.js' | prepend: site.baseurl }}"></script>
+    <script src="{{ '/assets/js/app.min.js' | prepend: site.baseurl }}"></script>
   </div>
 </footer>
