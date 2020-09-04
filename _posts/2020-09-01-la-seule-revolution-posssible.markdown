@@ -6,11 +6,13 @@ date: 2020-09-01
 technique: Huile sur toile 3D
 dimensions: 40x40
 price: 300
-image:  DSC_1629(3).JPG
+image:  DSC_1628(2).JPG
 author: Garanse
 tags:
   - Bleu
   - Blanc
+  - Jaune
+  - Orange
   
   
   

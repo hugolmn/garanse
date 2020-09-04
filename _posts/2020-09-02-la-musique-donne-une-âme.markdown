@@ -10,7 +10,6 @@ image:  DSC_1629(2).JPG
 author: Garanse
 tags:
   - Bleu
-  - Orange
   - Jaune
   - Vert
   - Blanc
