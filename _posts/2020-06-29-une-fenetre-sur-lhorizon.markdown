@@ -5,7 +5,7 @@ title_author: John JOOS
 date: 2020-06-29
 technique: Huile sur toile
 dimensions: 22x27
-price: 120
+price: 
 image: DSC_1510_(2).JPG
 author: Garanse
 tags:
