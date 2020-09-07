@@ -5,7 +5,7 @@ title_author: Zola
 date: 2020-06-29
 technique: Huile sur toile
 dimensions: 22x27
-price: 120
+price: 
 image:  DSC_1513_(2).JPG
 author: Garanse
 tags:
