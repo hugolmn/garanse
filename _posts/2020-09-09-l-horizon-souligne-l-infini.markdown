@@ -1,6 +1,6 @@
 ---
 layout: painting
-title:  «L’horizon souligne l’infini.»                                              
+title: "L’horizon souligne l’infini."                                      
 title_author: Victor Hugo  
 date: 2020-09-09
 technique: Huile sur toile 

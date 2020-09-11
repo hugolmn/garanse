@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: «L’âme est le puits le plus sombre, mais elle est aussi la bougie la plus lumineuse.»  
+title: "L’âme est le puits le plus sombre, mais elle est aussi la bougie la plus lumineuse."  
 title_author: Brahim Mouradi
 date: 2020-08-31
 technique: Huile sur toile 3D

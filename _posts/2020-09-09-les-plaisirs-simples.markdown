@@ -1,6 +1,6 @@
 ---
 layout: painting
-title:  «J’adore les plaisirs simples. Ils forment le dernier refuge des âmes complexes.»                                              
+title: "J’adore les plaisirs simples. Ils forment le dernier refuge des âmes complexes."                                             
 title_author: Oscar Wilde 
 date: 2020-09-09
 technique: Huile sur toile 
