@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: «De même que le serpent se défait de sa peau, nous devons nous défaire de notre passé.» 
+title: "De même que le serpent se défait de sa peau, nous devons nous défaire de notre passé."
 title_author: Bouddha
 date: 2020-08-18
 technique: Huile sur toile 3D

@@ -1,39 +1,41 @@
-<article class="posts__post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="posts__post">
   <!-- <a class="posts__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url"> -->
     {% if post.image %}
-      <div class="post__content">
+      <div class="card">
         <!-- <div id="markdown" itemprop="articleBody"> -->
         <!-- <div id="markdown"> -->
-        <div>
-          <img src="{{ post.image | replace: 'JPG', 'jpg' | prepend: '/assets/images/480/' | prepend: site.baseurl }}"
-               srcset="{% for size in site.image-size %}
-                       {{ post.image | replace: 'JPG', 'jpg' | prepend: '/' | prepend: size | prepend: '/assets/images/' | prepend: site.baseurl }} {{ size }}w,
-                       {% endfor %}"
-               sizes="(max-width: 54em) 100vw,
-                     (max-width: 90em) 48vw,
-                     (min-width: 91em) 27vw,
-                     480px"/>
-      </div>
+        <img class="card-img-top" src="{{ post.image | replace: 'JPG', 'jpg' | prepend: '/assets/images/480/' | prepend: site.baseurl }}"
+             srcset="{% for size in site.image-size %}
+                     {{ post.image | replace: 'JPG', 'jpg' | prepend: '/' | prepend: size | prepend: '/assets/images/' | prepend: site.baseurl }} {{ size }}w,
+                     {% endfor %}"
+             sizes="(max-width: 54em) 100vw,
+                   (max-width: 90em) 48vw,
+                   (min-width: 91em) 27vw,
+                   480px"/>
     {% endif %}
-    <div class="description">
-      <div class="painting-title">
+    <div class="card-body">
+      <div class="card-text">
         &laquo;&nbsp;{{ post.title }}&nbsp;&raquo;
       </div>
-      <div class="painting-title-author">
+      <div class="blockquote-footer text-right">
         {{ post.title_author }}
       </div>
-      <div class="painting-details">
+    </div>
+    <div class="card-footer d-flex justify-content-between">
+      <div class="card-text text-muted">
         {{ post.technique }} - {{ post.dimensions }}
       </div>
-      {% if post.price %}
-      <div class="painting-price">
-        Prix : {{ post.price }}€
-      </div>
-      {% else %}
-      <div class="painting-price">
-        Vendu
-      </div>
-      {% endif %}
+      <!-- <div class="card-text text-muted">
+        {{ post.technique }} - {{ post.dimensions }}
+      </div> -->
+        <div class="card-text text-muted">
+          {% if post.price %}
+            {{ post.price }}€
+          {% else %}
+           --€
+          {% endif %}
+        </div>
     </div>
+
   <!-- </a> -->
 </article>
