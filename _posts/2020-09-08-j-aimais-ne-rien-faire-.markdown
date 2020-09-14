@@ -4,7 +4,7 @@ title: "J’aimais beaucoup ne rien faire. Dans cette occupation suprême j’é
 title_author: Jean d’Ormesson
 date: 2020-09-08
 technique: Huile sur toile 
-dimensions: 24x35
+dimensions: 24x32
 price: 170
 image:  DSC_1632(2).JPG
 author: Garanse
