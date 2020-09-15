@@ -1,18 +1,20 @@
 <article class="posts__post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="card">
+    <div class="card-header">
+      <div class="card-title">{{ exposition.title }}</div>
+    </div>
     {% if exposition.affiche %}
-      {% assign content = exposition.content | strip_nenwlines %}
-      {% if content and content != blank %}
-        <a class="posts__link" href="{{ exposition.url | prepend: site.baseurl }}" itemprop="url">
-          <img src="{{ exposition.affiche | replace: 'JPG', 'jpg' | prepend: '/assets/images/expositions/' | prepend: site.baseurl }}"
-               alt="{{ exposition.title }}"
-               data-aos="fade-in"
-               itemprop="image"/>
-        </a>
-      {% else %}
-        <img src="{{ exposition.affiche | replace: 'JPG', 'jpg' | prepend: '/assets/images/expositions/' | prepend: site.baseurl }}"
-             alt="{{ exposition.title }}"
-             data-aos="fade-in"
-             itemprop="image"/>
-      {% endif %}
+    <img class="card-img-top" src="{{ post.image | replace: 'JPG', 'jpg' | prepend: '/assets/images/480/' | prepend: site.baseurl }}"
+         srcset="{% for size in site.image-size %}
+                 {{ post.image | replace: 'JPG', 'jpg' | prepend: '/' | prepend: size | prepend: '/assets/images/' | prepend: site.baseurl }} {{ size }}w,
+                 {% endfor %}"
+         sizes="(max-width: 54em) 100vw,
+               (max-width: 90em) 48vw,
+               (min-width: 91em) 27vw,
+               480px"/>
     {% endif %}
+    <div class="card-body">
+      <a href="{{ exposition.url | prepend: site.baseurl }}" itemprop="url" class="btn btn-primary">Plus d'infos</a>
+    </div>
+  </div>
 </article>
