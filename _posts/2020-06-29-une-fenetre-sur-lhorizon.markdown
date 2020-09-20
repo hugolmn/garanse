@@ -9,7 +9,7 @@ price:
 image: DSC_1510_(2).JPG
 author: Garanse
 tags:
-  - Bleu
+  - Marines
   
 ---
 ![Image]({{ page.image | prepend: site.baseurl}})
