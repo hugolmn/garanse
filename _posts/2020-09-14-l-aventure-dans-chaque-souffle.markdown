@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "L’aventure est dans chaque souffle de vent".                                          
+title: "L’aventure est dans chaque souffle de vent."                                       
 title_author: Charles Lindbergh 
 date: 2020-09-14 
 technique: Huile sur toile 

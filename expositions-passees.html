@@ -12,7 +12,7 @@ title: "Expositions"
       {% assign sorted = site.expositions | sort: 'date' | reverse %}
       {% for exposition in site.expositions %}
         {% assign expo_date = exposition.date | date: '%s' %}
-        {% if expo_date >= today_date %}
+        {% if expo_date < today_date %}
           {% include post-card-exposition.html %}
         {% endif %}
       {% endfor %}
