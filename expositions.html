@@ -8,10 +8,13 @@ title: "Expositions"
 <div class="posts">
   <div class="grid-xlarge">
     <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
-      {% for exposition in site.expositions reversed %}
-
-        {% include post-card-exposition.html %}
-
+      {% assign today_date = 'now' | date: '%s' %}
+      {% assign sorted = site.expositions | sort: 'date' | reverse %}
+      {% for exposition in site.expositions %}
+        {% assign expo_date = exposition.date | date: '%s' %}
+        {% if expo_date >= today_date %}
+          {% include post-card-exposition.html %}
+        {% endif %}
       {% endfor %}
     </div>
   </div>
