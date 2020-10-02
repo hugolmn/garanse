@@ -8,7 +8,7 @@ title_author: Aznavour
 date: 2020-07-30
 technique: Huile sur toile
 dimensions: 65x100
-price: 700
+price: 
 image:  DSC_1586(2).JPG
 author: Garanse
 tags:
