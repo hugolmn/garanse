@@ -16,3 +16,4 @@ for f in *.{png,PNG,jpg,JPG}
 do magick convert $f -set filename:name %t fullsize/%[filename:name].jpg
 done
 rm *.{png,PNG,jpg,JPG}
+exit 0
