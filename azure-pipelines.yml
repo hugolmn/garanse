@@ -10,7 +10,7 @@ variables:
   gh_user_build: garanse
   gh_repo_build: garanse.github.io
   gh_pass: $(gh_pat)
-  gh_email: hugo.le-moine@outlook.fr
+  gh_email: $(gh_email)
   gh_auth_header_raw: $(echo -n "${gh_user_raw}:$(github_pat)" | base64);
   gh_auth_header_build: $(echo -n "${gh_user_build}:$(github_pat)" | base64);
   
@@ -44,7 +44,7 @@ steps:
   displayName: "[ImageMagick] Allowing to execute generate-images.sh"
 
 - bash: source_code/assets/images/generate-images.sh
-  workingDirectory: $(Build.StagingDirectory)
+  workingDirectory: "$(Build.StagingDirectory)/source_code/assets/images/"
   displayName: "[ImageMagick] Resizing images"
 
 # Setting up Ruby & Jekyll
