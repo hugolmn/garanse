@@ -72,7 +72,7 @@ steps:
   workingDirectory: $(Build.StagingDirectory)
   displayName: "[Git] Removing previous build"
 
-- script: mv source_code/* build/
+- script: mv source_code/_site/* build/
   workingDirectory: $(Build.StagingDirectory)
   displayName: "[Git] Moving new build to build folder"
 
