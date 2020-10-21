@@ -1,8 +1,9 @@
 ---
-layout: default
-title: "Planning expos"
+layout: page
+pagination:
+  enabled: true
+title: "Expositions"
 ---
-
 # Planning des expos à venir
 ---
 D'ici la fin d'année 2020, voici les expos collectives ou personnelles sur lesquelles vous pourrez me retrouver !
@@ -13,7 +14,7 @@ D'ici la fin d'année 2020, voici les expos collectives ou personnelles sur lesq
 
 - Dimanche 1er Novembre de 10h à 19h
 
-  
+
 
 **Portes ouvertes de mon atelier à Cangey**
 
@@ -31,4 +32,3 @@ D'ici la fin d'année 2020, voici les expos collectives ou personnelles sur lesq
 **Marché de Noël privé au QD (espace de coworking) dans la zone de la Boitardière à Amboise**
 
 - Samedi 5 Décembre de 10h à 18h
-
