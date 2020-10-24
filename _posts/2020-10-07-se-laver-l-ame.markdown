@@ -10,7 +10,6 @@ image:  20201007-80x80.JPG
 author: Garanse
 tags:
   - Bleu
-  - Vert
   - Rouge
   
   
