@@ -1,18 +1,16 @@
 ---
 layout: painting
-title: "L’âme est le puits le plus sombre, mais elle est aussi la bougie la plus lumineuse."  
-title_author: Brahim Mouradi
-date: 2020-08-31
-technique: Huile sur toile 3D
-dimensions: 40x40
-price: 300
-image:  DSC_1625(3).JPG
+title: "Pour que les choses changent dans notre vie, on doit accepter de laisser aller ce qui ne nous ressemble plus."  
+title_author: Nicole Bordeleau
+date: 2018-02-27
+technique: Huile sur toile 
+dimensions: 89x116
+price: 800
+image:  DSC_1490.JPG
 author: Garanse
 tags:
-  - Rouge
+  - Vert
   - Bleu
-  - Jaune
-  - Blanc
   
   
   
