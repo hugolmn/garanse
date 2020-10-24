@@ -14,3 +14,4 @@ Nous vous proposons des créations en **séries extrêmement limitées** puisque
 
 
 
+![](https://garanse.github.io/assets/images/F&G/20200929_lancementF&G.JPG)
