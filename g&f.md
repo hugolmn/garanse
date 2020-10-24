@@ -1,7 +1,5 @@
 ---
-layout: page
-pagination:
-  enabled: true
+layout: post
 title: "Garanse & Fanchon"
 ---
 # Lancement d'une ligne de vêtements Garanse & Fanchon
