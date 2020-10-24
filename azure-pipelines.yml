@@ -55,6 +55,7 @@ steps:
   displayName: 'Install tools'
 
 - script: python source_code/assets/images/generate-images.py
+  workingDirectory: $(Build.StagingDirectory)
   displayName: 'Resizing new images'
 
 # Setting up Ruby & Jekyll
