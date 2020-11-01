@@ -4,7 +4,7 @@ title: "La beauté du monde qui disparaîtra bientôt a deux extrémités : cell
 title_author: Virginia Woolf                                            
 date: 2020-10-30
 technique: Huile sur toile 
-dimensions: 92x73
+dimensions: 92X73
 price: 650
 image:  20201030-92x73.JPG
 author: Garanse
