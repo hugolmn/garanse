@@ -6,7 +6,7 @@ date: 2020-11-10
 technique: Huile sur toile 
 dimensions: 80x80
 price: 600
-image:  20201110-80x80.JPG
+image: 20201110-80X80.JPG
 author: Garanse
 tags:
   - Gris
