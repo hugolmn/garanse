@@ -5,7 +5,7 @@ title_author: Andrea H. Japp
 date: 2020-11-27 
 technique: Huile sur toile 
 dimensions: 40x40 3D
-price: 300
+price: 
 image: 20201127-40x40-3D.JPG
 author: Garanse
 tags:

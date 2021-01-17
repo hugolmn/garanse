@@ -5,7 +5,7 @@ title_author: Socrate
 date: 2020-01-10
 technique: Huile sur toile
 dimensions: 50x50
-price: 350
+price: 
 image: 8.JPG
 author: Garanse
 tags:
