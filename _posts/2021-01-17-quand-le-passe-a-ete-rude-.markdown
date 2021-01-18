@@ -6,7 +6,7 @@ date: 2021-01-17
 technique: Huile sur toile 
 dimensions: 60x60
 price: 450
-image: 20210117-60x6.JPG
+image: 20210117-60x60.JPG
 author: Garanse
 tags:
   - Bleu
