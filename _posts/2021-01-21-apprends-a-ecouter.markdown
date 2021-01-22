@@ -6,7 +6,7 @@ date: 2021-01-21
 technique: Huile sur toile 
 dimensions: 50x50
 price: 350
-image: 20210122-50x50.JPG
+image: 20210121-50x50.JPG
 author: Garanse
 tags:
   - Rouge
