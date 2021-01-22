@@ -4,9 +4,9 @@ title: "Quand le passé a été rude, le présent difficile et l'avenir incertai
 title_author: Georges Isidore Barthe                                               
 date: 2021-01-17 
 technique: Huile sur toile 
-dimensions: 60x60
-price: 450
-image: 20210117-60x60.JPG
+dimensions: 50x50
+price: 350
+image: 20210117-50x50.JPG
 author: Garanse
 tags:
   - Bleu
