@@ -5,7 +5,7 @@ title_author: Joseph Campbell
 date: 2019-10-02
 technique: Huile sur toile
 dimensions: 65x81
-price: 500
+price: 
 image: DSC_0784(3).JPG
 author: Garanse
 tags:

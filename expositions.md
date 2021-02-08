@@ -7,7 +7,7 @@ title: "Expositions"
 # Planning des expos à venir
 
 
-Malgré les incertitudes liées aux conditions sanitaires, je continue d'avoir des projets d'expositions; En voici les prochaines dates prévues à ce jour :
+Malgré les incertitudes liées aux conditions sanitaires, je continue d'avoir des projets d'expositions. En voici les prochaines dates prévues à ce jour :
 
 
 
@@ -16,11 +16,12 @@ Malgré les incertitudes liées aux conditions sanitaires, je continue d'avoir d
 
 
 
-- Expostion au salon des peintres de **Pocé-sur-Cisse les 6 et 7 Mars 2021**
+- Exposition au salon des peintres de **Pocé-sur-Cisse les 6 et 7 Mars 2021**
+  - ANNULEE
 
 
 
-- Expostion au **Pavillon Heler à Ballan-Miré du 17 au 25 Avril 2021** 
+- Exposition au **Pavillon Heler à Ballan-Miré du 17 au 25 Avril 2021** 
   - en duo avec la sculptrice Sofi Gérard
 
 

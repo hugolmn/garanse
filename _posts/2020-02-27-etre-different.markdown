@@ -5,7 +5,7 @@ title_author: Albert Camus
 date: 2020-02-27
 technique: Huile sur toile
 dimensions: 50x50
-price: 350
+price: 
 image: DSC_1442_(3).JPG
 author: Garanse
 tags:

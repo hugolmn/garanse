@@ -5,7 +5,7 @@ title_author: Victor Hugo
 date: 2019-10-15
 technique: Huile sur toile
 dimensions: 3x30x60
-price: 600
+price: 
 image: DSC_1170_(2).JPG
 author: Garanse
 tags:
