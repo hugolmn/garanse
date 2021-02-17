@@ -5,7 +5,7 @@ title_author: Hippocrate
 date: 2020-02-17
 technique: Huile sur toile
 dimensions: 60x60
-price: 450
+price: 
 image: DSC_1434_(2).JPG
 author: Garanse
 tags:
