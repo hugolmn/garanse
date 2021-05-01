@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "Un peintre, c'est quelqu'un qui essuie la vitre entre le monde et nous avec de la lumière, avec un chiffon de lumière imbibé de silence." Christian Bobin                     
+title: "Un peintre, c'est quelqu'un qui essuie la vitre entre le monde et nous avec de la lumière, avec un chiffon de lumière imbibé de silence."                     
 title_author: Christian Bobin                                          
 date: 2021-04-30
 technique: Huile sur toile 
