@@ -5,7 +5,7 @@ title_author: Jean d’Ormesson
 date: 2020-09-08
 technique: Huile sur toile 
 dimensions: 24x32
-price: 170
+price: 150
 image:  DSC_1632(2).JPG
 author: Garanse
 tags:

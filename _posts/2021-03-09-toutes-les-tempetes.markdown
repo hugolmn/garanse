@@ -5,7 +5,7 @@ title_author: Aristote
 date: 2021-03-09
 technique: Huile sur toile 
 dimensions: 46x55
-price: 350
+price: 400
 image: 20210309-46x55.JPG
 author: Garanse
 tags:

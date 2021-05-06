@@ -5,7 +5,7 @@ title_author: Oscar Wilde
 date: 2020-09-09
 technique: Huile sur toile 
 dimensions: 20x40
-price: 190
+price: 150
 image:  DSC_1633(3).JPG
 author: Garanse
 tags:

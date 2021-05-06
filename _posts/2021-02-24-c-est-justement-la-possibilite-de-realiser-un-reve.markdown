@@ -5,7 +5,7 @@ title_author: Paolo Coelho
 date: 2021-02-24
 technique: Huile sur toile 
 dimensions: 50x50
-price: 350
+price: 400
 image: 20210224-50x50.JPG
 author: Garanse
 tags:
