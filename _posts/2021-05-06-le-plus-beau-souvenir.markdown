@@ -5,7 +5,7 @@ title_author: André Gide
 date: 2021-05-06
 technique: Huile sur toile 
 dimensions: 60x60
-price: 450
+price: 
 image: 20210506-60x60.JPG
 author: Garanse
 tags:
