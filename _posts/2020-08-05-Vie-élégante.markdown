@@ -5,7 +5,7 @@ title_author:  Françoise Sagan
 date: 2020-08-05
 technique: Huile sur toile
 dimensions: 60x60
-price: 450
+price: 
 image:  DSC_1608(2).JPG
 author: Garanse
 tags:

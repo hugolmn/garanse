@@ -5,7 +5,7 @@ title_author: Martin Luther King
 date: 2020-10-19
 technique: Huile sur toile 
 dimensions: 60x60
-price: 450
+price: 
 image:  20201019-60x60.JPG
 author: Garanse
 tags:

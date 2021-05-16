@@ -5,7 +5,7 @@ title_author: Albert Jacquard
 date: 2020-10-30
 technique: Huile sur toile 
 dimensions: 46x55
-price: 350
+price: 
 image:  20201026-46x55.JPG
 author: Garanse
 tags:
