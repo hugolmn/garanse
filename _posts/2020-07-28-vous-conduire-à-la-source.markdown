@@ -5,7 +5,7 @@ title_author: Bouddha
 date: 2020-07-28
 technique: Huile sur toile
 dimensions: 27x35
-price: 250
+price: 
 image:  DSC_1584(2).JPG
 author: Garanse
 tags:

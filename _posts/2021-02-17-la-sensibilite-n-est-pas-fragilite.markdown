@@ -6,7 +6,7 @@ title_author: Serena Santorelli
 date: 2021-02-17 
 technique: Huile sur toile 
 dimensions: 80x80
-price: 600
+price: 
 image: 20210217-80x80.JPG
 author: Garanse
 tags:

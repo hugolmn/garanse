@@ -5,7 +5,7 @@ title_author: Jacques Dor
 date: 2021-03-09
 technique: Huile sur toile 
 dimensions: 81x65
-price: 650
+price: 
 image: 20210323-81x65.JPG
 author: Garanse
 tags:
