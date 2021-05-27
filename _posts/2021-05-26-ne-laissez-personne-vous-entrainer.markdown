@@ -5,8 +5,8 @@ title_author: Kimberley Jones
 date: 2021-05-26
 technique: Huile sur toile 
 dimensions: 80x80
-price: 600
-image: 20210526-80x80 .JPG
+price: 
+image: 20210526-80x80.JPG
 author: Garanse
 tags:
   - Bleu
