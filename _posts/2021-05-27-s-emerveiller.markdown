@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: «S’émerveiller, c’est ne jamais s’habituer.»                     
+title: « S’émerveiller, c’est ne jamais s’habituer. »                     
 title_author: Christian Bobin                                      
 date: 2021-05-27
 technique: Huile sur toile 
