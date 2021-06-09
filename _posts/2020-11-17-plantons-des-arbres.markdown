@@ -5,7 +5,7 @@ title_author: Wangari Maathai
 date: 2020-11-17
 technique: Huile sur toile 
 dimensions: Rond diamètre 40 
-price: 300
+price: 
 image: 20201117-O40.JPG
 author: Garanse
 tags:
