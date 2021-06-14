@@ -5,7 +5,7 @@ title_author: Gandhi
 date: 2020-08-31
 technique: Huile sur toile 
 dimensions: 60x60
-price: 450
+price: 
 image:  DSC_1623(2).JPG
 author: Garanse
 tags:

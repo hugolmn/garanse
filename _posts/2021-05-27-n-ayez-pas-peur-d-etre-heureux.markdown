@@ -5,7 +5,7 @@ title_author: Romain Gary
 date: 2021-05-27
 technique: Huile sur toile 
 dimensions: 40x403D
-price: 300
+price: 
 image: 20210527-40x403D.JPG
 author: Garanse
 tags:
