@@ -5,7 +5,7 @@ title_author: Walt Disney
 date: 2020-05-26
 technique: Huile sur toile
 dimensions: 80x80
-price: 600
+price: 
 image: DSC_1488_(3).JPG
 author: Garanse
 tags:
