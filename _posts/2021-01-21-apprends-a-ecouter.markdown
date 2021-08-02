@@ -5,7 +5,7 @@ title_author: Antoine de Saint-Exupéry
 date: 2021-01-21 
 technique: Huile sur toile 
 dimensions: 50x50
-price: 350
+price: 
 image: 20210121-50x50.JPG
 author: Garanse
 tags:
