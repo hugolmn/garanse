@@ -5,7 +5,7 @@ title_author: Winston CHURCHILL
 date: 2021-06-24
 technique: Huile sur toile 
 dimensions: 50x50
-price: 400
+price: 
 image: 20210624-50x50.JPG
 author: Garanse
 tags:

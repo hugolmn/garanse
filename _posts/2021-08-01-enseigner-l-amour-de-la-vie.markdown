@@ -5,7 +5,7 @@ title_author: Montaigne
 date: 2021-08-01
 technique: Huile sur toile 
 dimensions: 30x40
-price: 300
+price: 
 image: 20210801-30x40.JPG
 author: Garanse
 tags:
