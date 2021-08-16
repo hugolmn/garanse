@@ -5,7 +5,7 @@ title_author: Françoise Sagan
 date: 2020-10-12
 technique: Huile sur toile 
 dimensions: 65x100
-price: 700
+price: 
 image:  20201012-65x100.JPG
 author: Garanse
 tags:
