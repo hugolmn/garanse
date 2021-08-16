@@ -5,7 +5,7 @@ title_author: Pablo Picasso
 date: 2020-10-07
 technique: Huile sur toile 
 dimensions: 80x80
-price: 600
+price: 
 image:  20201007-80x80.JPG
 author: Garanse
 tags:

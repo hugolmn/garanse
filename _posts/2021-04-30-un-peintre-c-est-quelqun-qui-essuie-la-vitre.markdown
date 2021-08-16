@@ -5,7 +5,7 @@ title_author: Christian Bobin
 date: 2021-04-30
 technique: Huile sur toile 
 dimensions: 81x100
-price: 700
+price: 
 image: 20210430-81x100.JPG
 author: Garanse
 tags:
