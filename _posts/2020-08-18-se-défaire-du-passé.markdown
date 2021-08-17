@@ -5,7 +5,7 @@ title_author: Bouddha
 date: 2020-08-18
 technique: Huile sur toile 3D
 dimensions: 50x100
-price: 600
+price: 
 image:  DSC_1615(2).JPG
 author: Garanse
 tags:
