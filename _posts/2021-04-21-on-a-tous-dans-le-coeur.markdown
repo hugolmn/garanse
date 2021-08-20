@@ -5,7 +5,7 @@ title_author: Guillaume Musso
 date: 2021-04-21
 technique: Huile sur toile 
 dimensions: 81x65
-price: 600
+price: 
 image: 20210421-81x65.JPG
 author: Garanse
 tags:

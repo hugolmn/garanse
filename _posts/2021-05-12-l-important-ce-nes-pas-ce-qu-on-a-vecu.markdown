@@ -5,7 +5,7 @@ title_author: Inconnu
 date: 2021-05-12
 technique: Huile sur toile 
 dimensions: 60x60
-price: 450
+price: 
 image: 20210512-60x60.JPG
 author: Garanse
 tags:
