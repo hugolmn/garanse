@@ -5,7 +5,7 @@ title_author: Brahim Mouradi
 date: 2020-08-31
 technique: Huile sur toile 3D
 dimensions: 40x40
-price: 300
+price: 
 image:  DSC_1625(3).JPG
 author: Garanse
 tags:
