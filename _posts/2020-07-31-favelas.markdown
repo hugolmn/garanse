@@ -5,7 +5,7 @@ title_author: Souleymane Boel
 date: 2020-07-31
 technique: Huile sur toile
 dimensions: 27x35
-price: 250
+price: 
 image:  DSC_1588(3).JPG
 author: Garanse
 tags:
