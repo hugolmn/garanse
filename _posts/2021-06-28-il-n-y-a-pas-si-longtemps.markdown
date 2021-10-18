@@ -9,7 +9,7 @@ price: 120
 image: 20210628-22x27.JPG
 author: Garanse
 tags:
-  - Marine
+  - Marines
   
   
   
