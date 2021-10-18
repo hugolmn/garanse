@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: « Il faut avoir un chaos en soi-même pour accoucher d’une étoile qui danse. »    
+title: "Il faut avoir un chaos en soi-même pour accoucher d’une étoile qui danse."   
 title_author: Nietzche 
 date: 2021-10-15
 technique: Huile sur toile
