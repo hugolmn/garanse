@@ -5,7 +5,7 @@ title_author:  Françoise Sagan
 date: 2021-10-18
 technique: Huile sur toile
 dimensions: 19x24
-Price: 90
+price: 90
 image: 20211018-19x24B.JPG
 author: Garanse
 tags:
