@@ -8,11 +8,11 @@ De leur offrir de la lumière
 Comme un météore en passant
 Car, même si on est éphémère,
 On s'en souvient pendant longtemps."  
-title_author: Calogero -Les feux d'artifices-
+title_author: Calogero 
 date: 2021-10-20
 technique: Huile sur toile
 dimensions: 60x73 
-price: 500€
+price: 500
 image: 20211020-60x73.JPG
 author: Garanse
 tags:
