@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: «La rêverie est la vapeur de la pensée.»                     
+title: "La rêverie est la vapeur de la pensée."                     
 title_author: Victor Hugo                                       
 date: 2021-05-27
 technique: Huile sur toile 

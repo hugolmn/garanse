@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: « C’est dans ses rêves que l’homme trouve la liberté. Cela fut , est, et restera la vérité. »    
+title: "C’est dans ses rêves que l’homme trouve la liberté. Cela fut , est, et restera la vérité."    
 title_author: Film - Le Cercle des poètes disparus                                                          
 date: 2021-09-16
 technique: Huile sur toile 
