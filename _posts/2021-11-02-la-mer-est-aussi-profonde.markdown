@@ -10,7 +10,7 @@ image: 20211102-19x24.JPG
 author: Garanse
 tags:
   - Bleu
-  - Rose
+  
   
   
   
