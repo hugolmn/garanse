@@ -12,7 +12,7 @@ title_author: Calogero
 date: 2021-10-20
 technique: Huile sur toile
 dimensions: 60x73 
-price: 500
+price: 
 image: 20211020-60x73.JPG
 author: Garanse
 tags:
