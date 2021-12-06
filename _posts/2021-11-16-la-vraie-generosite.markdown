@@ -5,7 +5,7 @@ title_author: Albert Camus
 date: 2021-11-16
 technique: Huile sur toile
 dimensions: 50x50 
-price: 400 
+price: 
 image: 20211116-50x50.JPG
 author: Garanse
 tags:
