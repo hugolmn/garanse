@@ -5,7 +5,7 @@ title_author: Bernard Werber
 date: 2021-11-17
 technique: Huile sur toile
 dimensions: 46x55 
-price: 400 
+price: 
 image: 20211117-46x55.JPG
 author: Garanse
 tags:

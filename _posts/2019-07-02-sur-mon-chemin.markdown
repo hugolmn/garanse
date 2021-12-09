@@ -5,7 +5,7 @@ title_author: Carl Sagan
 date: 2019-07-02
 technique: Huile sur toile
 dimensions: 80x80
-price: 600
+price: 
 image: DSC_0785.jpg
 author: Garanse
 tags:
