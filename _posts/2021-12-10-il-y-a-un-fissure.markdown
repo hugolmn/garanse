@@ -4,9 +4,9 @@ title: « Il y a une fissure dans toute chose, c’est par là qu’entre la lum
 title_author: Léonard Cohen     
 date: 2021-12-10
 technique: Huile sur toile
-dimensions:65x54 
+dimensions: 65x54 
 price: 480
-image: 20211210-65x64.JPG
+image: 20211210-65x54.JPG
 author: Garanse
 tags:
   - Rouge
