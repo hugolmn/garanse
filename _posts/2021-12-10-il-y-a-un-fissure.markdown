@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: « Il y a une fissure dans toute chose, c’est par là qu’entre la lumière. » 
+title: "Il y a une fissure dans toute chose, c’est par là qu’entre la lumière." 
 title_author: Léonard Cohen     
 date: 2021-12-10
 technique: Huile sur toile
