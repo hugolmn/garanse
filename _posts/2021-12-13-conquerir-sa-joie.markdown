@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "Mieux vaut conqu »rir sa joie que de s’abandonner à sa tristesse." André Gide  
+title: "Mieux vaut conquérir sa joie que de s’abandonner à sa tristesse." 
 title_author: André Gide     
 date: 2021-12-13
 technique: Huile sur toile
@@ -11,7 +11,7 @@ author: Garanse
 tags:
   - Rouge
   - Bleu
-  - orange
+  - Orange
   
   
   

@@ -5,7 +5,7 @@ title_author: Jacques Salomé
 date: 2021-12-12
 technique: Huile sur toile
 dimensions: 50x50
-price: 400
+price: 
 image: 20211212-50x50.JPG
 author: Garanse
 tags:
