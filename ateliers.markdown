@@ -23,8 +23,8 @@ Je fournis le matériel, la blouse y compris.
 
 ### Tarifs
 
-- 40€ / personne en individuel
-- 35€ / personne en duo
+- 50€ / personne en individuel
+- 40€ / personne en duo
 - Possibilité d'offrir des bons ***"Atelier Cadeau"***
 
 ### Lieux
