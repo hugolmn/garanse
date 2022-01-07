@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "En art comme en amour,l’instant suffit."  
+title: "En art comme en amour, l’instant suffit."  
 title_author: Anatole France  
 date: 2022-01-06
 technique: Huile sur toile
