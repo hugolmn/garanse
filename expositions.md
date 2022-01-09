@@ -61,3 +61,34 @@ Malgré les incertitudes liées aux conditions sanitaires, je continue d'avoir d
 
 
 ****
+
+
+
+# Planning des expos 2022
+
+
+Malgré les incertitudes liées aux conditions sanitaires, je continue d'avoir des projets d'expositions. En voici les prochaines dates prévues à ce jour :
+
+
+
+- Exposition à la **Bibliothèque d'Idron  (64) du 19 au 28 Janvier**
+- Exposition à la **mairie de Lons (64) du 19 au 28 Janvier**
+
+
+
+- Exposition à la mairie de La Membrolle (37) du **12 au 18 Février**
+
+  
+
+- Exposition au **Pavillon Heler à Ballan-Miré du 12 au 20 Mars** en duo avec la sculptrice Sofi Gérard 
+
+  
+
+- Exposition à **la Grange de Négron à Nazelles les 25 et 26 Mars**
+
+  
+
+  
+
+
+
