@@ -5,7 +5,7 @@ title_author: Jacques Perret
 date: 2022-01-12
 technique: Huile sur toile
 dimensions: 80x80
-price: 650€
+price: 650
 image: 20220112-80x80.JPG
 author: Garanse
 tags:
