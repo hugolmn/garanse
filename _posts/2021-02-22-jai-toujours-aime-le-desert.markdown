@@ -5,7 +5,7 @@ title_author: Antoine de Saint-Exupéry (Le Petit Prince)
 date: 2021-02-22
 technique: Huile sur toile 
 dimensions: 80x80
-price: 600
+price: 
 image: 20210222-80x80.JPG
 author: Garanse
 tags:
