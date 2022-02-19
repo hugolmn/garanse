@@ -5,7 +5,7 @@ title_author: William Faulkner
 date: 2021-11-10
 technique: Huile sur toile 
 dimensions: 100x100
-price: 900
+price: 1000
 image: 20211110-100x100.JPG
 author: Garanse
 tags:

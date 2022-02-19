@@ -5,7 +5,7 @@ title_author: Richard Gere
 date: 2021-08-22
 technique: Huile sur toile 
 dimensions: 89x116
-price: 900
+price: 1100
 image: 20210822-89x116.JPG
 author: Garanse
 tags:
