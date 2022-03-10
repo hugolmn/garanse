@@ -1,15 +1,15 @@
 ---
 layout: painting
-title:  "Il y a un moment où les mots s'usent et le silence commence à raconter." 
-title_author: Khalil Gibran
-date: 2020-03-23
+title: "Sois toujours comme la mer, qui, se brisant sur les rochers, trouve toujours la force de recommencer."  
+title_author: Jim Morrison
+date: 2022-03-10
 technique: Huile sur toile
-dimensions: 40x40
-price: 
-image: DSC_1457_(3).JPG
+dimensions: 40x40 3D
+price: 350
+image: 20220310-40x40-3D.JPG
 author: Garanse
 tags:
   - Bleu
-  - Blanc
+  
 ---
 ![Image]({{ page.image | prepend: site.baseurl}})
