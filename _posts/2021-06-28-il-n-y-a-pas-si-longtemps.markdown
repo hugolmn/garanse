@@ -5,7 +5,7 @@ title_author: Emile Zola
 date: 2021-06-28
 technique: Huile sur toile 
 dimensions: 22x27
-price: 120
+price:
 image: 20210628-22x27.JPG
 author: Garanse
 tags:
