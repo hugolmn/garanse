@@ -1,6 +1,6 @@
 ---
 layout: painting
-title:  « Tourne-toi vers le soleil et l’ombre sera derrière toi. » 
+title:  "Tourne-toi vers le soleil et l’ombre sera derrière toi." 
 title_author: Proverbe maori   
 date: 2022-03-21
 technique: Huile sur toile
