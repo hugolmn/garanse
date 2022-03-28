@@ -5,7 +5,7 @@ title_author: Delphine De Vigan
 date: 2020-02-26
 technique: Huile sur toile
 dimensions: 73x92
-price: 600
+price: 
 image: DSC_1442_(2).JPG
 author: Garanse
 tags:
