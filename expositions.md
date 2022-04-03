@@ -66,8 +66,7 @@ Malgré les incertitudes liées aux conditions sanitaires, je continue d'avoir d
 
 # Planning des expos 2022
 
-
-Malgré les incertitudes liées aux conditions sanitaires, je continue d'avoir des projets d'expositions. En voici les prochaines dates prévues à ce jour :
+La vie reprend son cours et les expos sont de nouveau programmées d'une façon plus "intensive" cette année ! Vous trouverez ci-dessous le détail des festivités auxquelles je participerai tout au long de l'année, en espérant avoir l'occasion de vous rencontrez sur l'une ou plusieurs de ces dates !
 
 
 
@@ -76,26 +75,52 @@ Malgré les incertitudes liées aux conditions sanitaires, je continue d'avoir d
 
 
 
-- Exposition à la **Mairie de La Membrolle (37) du 12 au 18 Février** ANNULEE
-
-  
-
 - Exposition au **Pavillon Heler à Ballan-Miré du 12 au 20 Mars** en duo avec la sculptrice Sofi Gérard 
 
 - Exposition à **la Grange de Négron à Nazelles les 25 et 26 Mars**
 
   
 
-- **Portes-ouvertes atelier les 21 et 22 Mai**
+- **Marché des Créateurs Cré'Art Paul Bert (Tours) le 24 Avril**
+
+- Exposition au restaurant **L'Auberge du Croissant à Rochecorbon, d'Avril à Juin**, avec un vernissage le Vendredi 22 Avril
+
+  
+
+- Exposition au **28ème Salon de Vernou-sur-Brenne du 7 au 15 Mai**
+
+- **Portes-ouvertes Atelier Garanse les 21 et 22 Mai**
 
 - Exposition à **l'Eglise Saint-Florentin à Amboise les 28 et 29 Mai**
 
   
 
-- Exposition particulière à **Saint-Vincent-sur-Graon (85) les 23 et 24 Juilet**
+- Exposition personnelle à **Compiègne les 18 et 19 Juin**
 
   
 
+- Exposition particulière à **Saint-Vincent-sur-Graon (85) les 23 et 24 Juillet**
+
+  
+
+- Exposition à **la Fête des peintres, sculpteurs et photographes à Montrésor, du 13 au 15 Août**
+
+- Exposition **L'Art en soi à Vernou-en-Sologne le 28 Août**
+
+  
+
+- Exposition personnelle à **Rueil-Malmaison les 1er et 2 Octobre**
+
+  
+
+- Exposition personnelle au **Château d'Idron du 8 au 13 Novembre**
+
+  
+
+  
+  
+  
+  
   
 
 
