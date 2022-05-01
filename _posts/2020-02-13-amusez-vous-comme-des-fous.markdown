@@ -5,7 +5,7 @@ title_author: Sacha Guitry
 date: 2020-02-13
 technique: Huile sur toile
 dimensions: 80x80
-price: 600
+price: 650
 image: DSC_1424_(2).JPG
 author: Garanse
 tags:
