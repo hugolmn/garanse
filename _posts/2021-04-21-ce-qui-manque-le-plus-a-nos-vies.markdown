@@ -5,7 +5,7 @@ title_author: Jacques Dor
 date: 2022-04-21
 technique: Huile sur toile
 dimensions:  54x65
-price: 480
+price: 
 image: 20220421-54x65.JPG
 author: Garanse
 tags:

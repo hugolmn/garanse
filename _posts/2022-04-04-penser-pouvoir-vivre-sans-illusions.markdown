@@ -5,7 +5,7 @@ title_author: Michaël Veuillet
 date: 2022-04-04
 technique: Huile sur toile
 dimensions: Diam 50
-price: 400
+price: 
 image: 20220404-O50.JPG
 author: Garanse
 tags:
