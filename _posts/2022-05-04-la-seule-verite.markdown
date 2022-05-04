@@ -4,9 +4,9 @@ title:  "La seule vérité en fin de compte, c'est de mener une vie passionnée,
 title_author: Boris Vian                                             
 date: 2022-05-04
 technique: Huile sur toile 
-dimensions: 81x65
+dimensions: 65x81
 price: 600
-image:  20220504-81x65.JPG
+image:  20220504-65x81.JPG
 author: Garanse
 tags:
   - Marron
