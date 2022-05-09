@@ -5,7 +5,7 @@ title_author: Garry Winogrand
 date: 2022-05-03
 technique: Huile sur toile 
 dimensions: 24x30
-price: 160
+price: 
 image:  20220503-24x30.JPG
 author: Garanse
 tags:
