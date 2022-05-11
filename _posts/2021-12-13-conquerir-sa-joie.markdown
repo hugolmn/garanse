@@ -5,7 +5,7 @@ title_author: André Gide
 date: 2021-12-13
 technique: Huile sur toile
 dimensions: 70x70
-price: 550
+price: 
 image: 20211213-70x70.JPG
 author: Garanse
 tags:
