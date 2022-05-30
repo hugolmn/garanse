@@ -5,7 +5,7 @@ title_author: Proverbe maori
 date: 2022-03-21
 technique: Huile sur toile
 dimensions: 27x35
-price: 250
+price: 
 image: 20220321-27x35.JPG
 author: Garanse
 tags:

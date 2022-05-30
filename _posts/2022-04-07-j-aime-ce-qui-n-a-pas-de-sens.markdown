@@ -5,7 +5,7 @@ title_author: Boris Vian
 date: 2022-04-07
 technique: Huile sur toile
 dimensions: 81x100 
-price: 800
+price: 
 image: 20220407-81x100.JPG
 author: Garanse
 tags:

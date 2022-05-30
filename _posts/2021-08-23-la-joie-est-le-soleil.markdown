@@ -5,7 +5,7 @@ title_author: Carl Reysz
 date: 2021-08-23
 technique: Huile sur toile 
 dimensions: 70x70
-price: 550
+price: 
 image: 20210823-70x70.JPG
 author: Garanse
 tags:

@@ -5,7 +5,7 @@ title_author: Claude Lelouch
 date: 2021-10-25
 technique: Huile sur toile
 dimensions: 24x35
-price: 190
+price: 220
 image: 20211025-24x35.JPG
 author: Garanse
 tags:
