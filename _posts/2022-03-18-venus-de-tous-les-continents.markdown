@@ -5,7 +5,7 @@ title_author: Simone Veil
 date: 2022-03-18
 technique: Huile sur toile
 dimensions: 40x40 3D
-price: 350
+price: 
 image: 20220318-40x40-3D.JPG
 author: Garanse
 tags:
