@@ -6,7 +6,7 @@ date: 2022-06-06
 technique: Huile sur toile
 dimensions: 60x60
 price: 480
-image: 20220606-6x60.JPG
+image: 20220606-60x60.JPG
 author: Garanse
 tags:
   - Jaune
