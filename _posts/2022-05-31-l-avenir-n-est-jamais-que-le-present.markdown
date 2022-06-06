@@ -6,7 +6,7 @@ date: 2022-05-31
 technique: Huile sur toile
 dimensions: 80x80
 price: 650
-image: 20220531-80x80.JPG
+image: 20220606-80x80.JPG
 author: Garanse
 tags:
   - Bleu
