@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: « Dans le silence et la solitude, on n’entend plus que l’essentiel. » 
+title: "Dans le silence et la solitude, on n’entend plus que l’essentiel."
 title_author: Camille Belguise
 date: 2022-06-06
 technique: Huile sur toile
