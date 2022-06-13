@@ -5,7 +5,7 @@ title_author: Marcel Pagnol
 date: 2022-02-04
 technique: Huile sur toile
 dimensions: 50x50
-price: 400
+price: 
 image: 20220204-50x50.JPG
 author: Garanse
 tags:
