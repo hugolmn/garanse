@@ -5,7 +5,7 @@ title_author: Film - Le Cercle des poètes disparus
 date: 2021-09-16
 technique: Huile sur toile 
 dimensions: 80x80
-price: 600
+price: 650
 image: 20210916-80x80.JPG
 author: Garanse
 tags:
