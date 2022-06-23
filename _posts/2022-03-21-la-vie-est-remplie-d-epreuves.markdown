@@ -5,7 +5,7 @@ title_author: John Joos
 date: 2022-03-21
 technique: Huile sur toile
 dimensions: 50x50
-price: 400
+price: 
 image: 20220321-50x50.JPG
 author: Garanse
 tags:

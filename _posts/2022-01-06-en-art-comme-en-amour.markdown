@@ -5,7 +5,7 @@ title_author: Anatole France
 date: 2022-01-06
 technique: Huile sur toile
 dimensions: 80x80
-price: 650
+price: 
 image: 20220106-80x80.JPG
 author: Garanse
 tags:
