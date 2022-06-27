@@ -23,7 +23,7 @@ La vie reprend son cours et les expos sont de nouveau programmées d'une façon 
 
 - **Marché des Créateurs Cré'Art Paul Bert (Tours-37) le 24 Avril**
 
-- Exposition au restaurant **L'Auberge du Croissant à Rochecorbon, d'Avril à Juin**, avec un **vernissage le Vendredi 22 Avril** lors de l'inauguration de leur bar à vins
+- Exposition au restaurant **L'Auberge du Croissant à Rochecorbon (37) d'Avril à Juin**, avec un **vernissage le Vendredi 22 Avril** lors de l'inauguration de leur bar à vins
 
   
 
@@ -37,7 +37,9 @@ La vie reprend son cours et les expos sont de nouveau programmées d'une façon 
 
   
 
-- Exposition personnelle à **Compiègne (60) les 18 et 19 Juin**
+- Exposition personnelle à **Compiègne (60) les 18 et 19 Juin **
+
+- Exposition Les Temps d'Art à **Monnaie (37)  le 26 Juin **
 
   
 
@@ -48,6 +50,10 @@ La vie reprend son cours et les expos sont de nouveau programmées d'une façon 
 - Exposition à **la Fête des peintres, sculpteurs et photographes à Montrésor (37), du 13 au 15 Août**
 
 - Exposition **L'Art en soi à Vernou-en-Sologne (41) le 28 Août**
+
+  
+
+- Exposition Place des Créateurs à **Mosnes (37) le 11 Septembre**
 
   
 
