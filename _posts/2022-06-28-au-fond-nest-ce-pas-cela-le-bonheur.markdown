@@ -6,7 +6,7 @@ date: 2022-06-28
 technique: Huile sur toile 
 dimensions: 81x65
 price: 
-image:  20220628-81x65.JPG
+image: 20220628-81x65.JPG
 author: Garanse
 tags:
     - Rouge
