@@ -9,7 +9,7 @@ price: 450
 image: DSC_1436_(2).JPG
 author: Garanse
 tags:
-  - Boir
+  - Noir
   - Blanc
   - Rouge
 ---

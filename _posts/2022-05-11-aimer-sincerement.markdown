@@ -5,13 +5,14 @@ title_author: John Joos
 date: 2022-05-11
 technique: Huile sur toile 
 dimensions: 80x80
-price: 650
+price: 
 image:  20220511-80x80.JPG
 author: Garanse
 tags:
   - Bleu
   - Vert
-  
+  - Rose
+  - Violet
   
   
   
