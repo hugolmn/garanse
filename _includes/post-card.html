@@ -1,9 +1,9 @@
 <article class="posts__post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
 
 <div class="card">
-  <img class="card-img-top" src="{{ post.image | replace: 'JPG', 'jpg' | prepend: '/assets/images/480/' | prepend: site.baseurl }}"
+  <img class="card-img-top" src="{{ post.image | upcase | replace: 'JPG', 'jpg' | prepend: '/assets/images/480/' | prepend: site.baseurl }}"
        srcset="{% for size in site.image-size %}
-               {{ post.image | replace: 'JPG', 'jpg' | prepend: '/' | prepend: size | prepend: '/assets/images/' | prepend: site.baseurl }} {{ size }}w,
+               {{ post.image | upcase | replace: 'JPG', 'jpg' | prepend: '/' | prepend: size | prepend: '/assets/images/' | prepend: site.baseurl }} {{ size }}w,
                {% endfor %}"
        sizes="(max-width: 54em) 100vw,
              (max-width: 90em) 48vw,
