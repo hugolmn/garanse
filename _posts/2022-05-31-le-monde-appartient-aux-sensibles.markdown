@@ -5,7 +5,7 @@ title_author: Régis Carlo
 date: 2022-05-31
 technique: Huile sur toile
 dimensions: 22x27 
-price: 140
+price: 
 image: 20220531-22x27.JPG
 author: Garanse
 tags:
