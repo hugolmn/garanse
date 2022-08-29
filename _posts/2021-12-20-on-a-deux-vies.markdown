@@ -5,7 +5,7 @@ title_author: Confucius
 date: 2021-12-20
 technique: Huile sur toile
 dimensions: 92x73
-price: 700
+price: 
 image: 20211220-92x73.JPG
 author: Garanse
 tags:
