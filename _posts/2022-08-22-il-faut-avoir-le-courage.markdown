@@ -5,7 +5,7 @@ title_author: Auteur inconnu
 date: 2022-08-22
 technique: Huile sur toile 
 dimensions: 70x70
-price: 550
+price: 580
 image: 20220822-70x70.JPG
 author: Garanse
 tags:

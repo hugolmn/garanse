@@ -10,8 +10,8 @@ La vie reprend son cours et les expos sont de nouveau programmées d'une façon 
 
 
 
-- Exposition à la **Bibliothèque d'Idron  (64) du 19 au 28 Janvier**
-- Exposition à la **Mairie de Lons (64) du 19 au 28 Janvier**
+- Exposition personnelle à la **Bibliothèque d'Idron (64) du 19 au 28 Janvier**
+- Exposition personnelle à la **Mairie de Lons (64) du 19 au 28 Janvier**
 
 
 
@@ -57,11 +57,15 @@ La vie reprend son cours et les expos sont de nouveau programmées d'une façon 
 
   
 
-- Exposition personnelle à **Rueil-Malmaison (92) les 1er et 2 Octobre**
+- Exposition  **La Journée de l'Art à Saint-Genouph (37) le 9 Octobre**
+
+- Exposition personnelle à **Rueil-Malmaison (92) les 1er et 2 Octobre, 13 Villa Sisley**
 
   
 
 - Exposition personnelle au **Château d'Idron (64) du 8 au 13 Novembre**
+
+- **39ème Salon des Arts de Larçay (37), les 26 et 27 Novembre**
 
   
 
