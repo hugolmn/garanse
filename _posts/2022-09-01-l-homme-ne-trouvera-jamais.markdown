@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "L'Homme ne trouvera jamais une intervention plus belle, plus simple ou plus directe que la nature, car dans ses inventions rien ne manque et rien n'est excessif."  						  						 	 					                                    
+title: "L'Homme ne trouvera jamais une invention plus belle, plus simple ou plus directe que la nature, car dans ses inventions rien ne manque et rien n'est excessif."  						  						 	 					                                    
 title_author: Léonard de Vinci                                   
 date: 2022-09-01
 technique: Huile sur toile 
