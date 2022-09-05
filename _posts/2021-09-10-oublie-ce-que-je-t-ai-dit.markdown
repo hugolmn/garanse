@@ -5,7 +5,7 @@ title_author: Jean d'Ormesson
 date: 2021-09-10
 technique: Huile sur toile 
 dimensions: 60x73
-price: 
+price: 500
 image: 20210910-60x73.JPG
 author: Garanse
 tags:
