@@ -1,0 +1,26 @@
+---
+layout: painting
+title: "L'artiste doit tout élever : il est comme une pompe, il a en lui un grand tuyau qui descend aux entrailles des choses, dans les couches profondes, il aspire et fait jaillir au soleil les gerbes géantes ce qui était plat sous terre et qu'on ne voyait pas." 
+title_author: Gustave Flaubert	                                                            
+date: 2022-09-05
+technique: Huile sur toile 
+dimensions: 70x70
+price: 580
+image: 20220905-70x70.JPG 
+author: Garanse
+tags:
+  - Bleu
+  - Rouge
+  - Rose
+  
+  
+  
+  
+  
+  
+  
+  
+  
+---
+![Image]({{ page.image | prepend: site.baseurl}})
+
