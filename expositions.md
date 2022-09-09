@@ -57,9 +57,9 @@ La vie reprend son cours et les expos sont de nouveau programmées d'une façon 
 
   
 
-- Exposition  **La Journée de l'Art à Saint-Genouph (37) le 9 Octobre**
-
 - Exposition personnelle à **Rueil-Malmaison (92) les 1er et 2 Octobre, 13 Villa Sisley**
+
+- Exposition  **La Journée de l'Art à Saint-Genouph (37) le 9 Octobre**
 
   
 
