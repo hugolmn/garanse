@@ -5,7 +5,7 @@ title_author: Joyce Meyer
 date: 2022-04-11
 technique: Huile sur toile
 dimensions: 50x100  
-price: 650
+price: 
 image: 20220411-50x100.JPG
 author: Garanse
 tags:

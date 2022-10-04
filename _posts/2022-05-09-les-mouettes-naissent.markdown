@@ -5,7 +5,7 @@ title_author: Ramon Gomez de la Serna
 date: 2022-05-09
 technique: Huile sur toile 
 dimensions: 22x27
-price: 120
+price: 
 image:  20220509-22x27.JPG
 author: Garanse
 tags:

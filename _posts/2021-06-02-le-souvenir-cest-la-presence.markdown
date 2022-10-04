@@ -5,7 +5,7 @@ title_author: Lacordaire
 date: 2021-06-02
 technique: Huile sur toile 
 dimensions: 92x73
-price: 650
+price:
 image: 20210602-92x73.JPG
 author: Garanse
 tags:

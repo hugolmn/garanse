@@ -5,7 +5,7 @@ title_author:  Marcel Proust
 date: 2022-06-23
 technique: Huile sur toile 
 dimensions: 40x40 3D
-price: 350
+price: 
 image: 20220623-40x40-3D.JPG
 author: Garanse
 tags:
