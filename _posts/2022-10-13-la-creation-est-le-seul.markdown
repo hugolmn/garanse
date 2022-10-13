@@ -1,7 +1,7 @@
 ---
 layout: painting
 title: "La création est le seul substitut raisonnable à la violence."                     
-title_author: Jacuqes Attali                                     
+title_author: Jacques Attali                                     
 date: 2022-10-13
 technique: Huile sur toile 
 dimensions: 80x80
