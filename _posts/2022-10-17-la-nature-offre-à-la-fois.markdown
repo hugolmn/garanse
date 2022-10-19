@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "La nature offre à la fois ce qui nourrit le corps et le guérit, émerveille l'ême, le cœur et l'esprit." Pierre Rabhi                     
+title: "La nature offre à la fois ce qui nourrit le corps et le guérit, émerveille l'âme, le cœur et l'esprit."                      
 title_author: Pierre Rabhi                                     
 date: 2022-10-17
 technique: Huile sur toile 
