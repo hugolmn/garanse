@@ -69,6 +69,14 @@ La vie reprend son cours et les expos sont de nouveau programmées d'une façon 
 
   
 
+- **Portes ouvertes de mon atelier** au 21 Rue de Monteaux 37530 CANGEY  **les 3 et 4 Décembre**
+
+- **Marché de Noël à Cangey les 10 et 11 Décembre**
+
+  
+
+  
+  
   
   
   
