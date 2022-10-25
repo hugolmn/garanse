@@ -1,0 +1,25 @@
+---
+layout: painting
+title: "A force de sacrifier l'essentiel pour l'urgence, on finit par oublier l'urgence de l'essentiel."                    
+title_author: Edgar Morin                                  
+date: 2022-10-25
+technique: Huile sur toile 
+dimensions: 22x27
+price: 150
+image: 20221025-22x27.JPG
+author: Garanse
+tags:
+  - Bleu
+  - Orange
+  
+  
+  
+  
+  
+  
+  
+  
+  
+---
+![Image]({{ page.image | prepend: site.baseurl}})
+
