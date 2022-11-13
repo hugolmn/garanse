@@ -5,7 +5,7 @@ title_author: Gandhi
 date: 2022-02-10
 technique: Huile sur toile
 dimensions: 60x60
-price: 480
+price: 
 image: 20220210-60x60.JPG
 author: Garanse
 tags:

@@ -5,7 +5,7 @@ title_author: Paolo Coelho
 date: 2021-10-18
 technique: Huile sur toile
 dimensions: 19x24
-price: 90
+price: 
 image: 20211018-19x24.JPG
 author: Garanse
 tags:
