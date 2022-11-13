@@ -5,7 +5,7 @@ title_author:  Albert Einstein
 date: 2022-10-20
 technique: Huile sur toile 
 dimensions: 55x64
-price: 480
+price: 
 image: 20221020-55x64.JPG
 author: Garanse
 tags:

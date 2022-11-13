@@ -5,7 +5,7 @@ title_author: Boris Cyrulnik
 date: 2021-08-22
 technique: Huile sur toile 
 dimensions: 60x60
-price: 480
+price:
 image: 20210822-60x60.JPG
 author: Garanse
 tags:
