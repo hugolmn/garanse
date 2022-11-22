@@ -6,7 +6,7 @@ date: 2022-11-21
 technique: Huile sur toile
 dimensions: 65x92
 price: 700
-image: 202221121-65x92.JPG
+image: 20221121-65x92.JPG
 author: Garanse
 tags:
   - Bleu
