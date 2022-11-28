@@ -5,7 +5,7 @@ title_author: Victor Hugo
 date: 2022-11-24
 technique: Huile sur toile
 dimensions: 50x50
-price: 400
+price: 
 image: 20221124-50x50.JPG
 author: Garanse
 tags:

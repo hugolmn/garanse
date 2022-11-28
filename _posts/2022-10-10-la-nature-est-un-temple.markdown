@@ -5,7 +5,7 @@ title_author: Reine Malouin
 date: 2022-10-10
 technique: Huile sur toile 
 dimensions: 60x73
-price: 500
+price: 
 image: 20221010-60x73.JPG
 author: Garanse
 tags:
