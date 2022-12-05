@@ -5,7 +5,7 @@ title_author: Jacques Attali
 date: 2020-11-01
 technique: Huile sur toile 
 dimensions: 92x73
-price: 650
+price: 
 image:  20201101-92x73.JPG
 author: Garanse
 tags:

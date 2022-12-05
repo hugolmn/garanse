@@ -5,7 +5,7 @@ title_author: Philippe Geluck
 date: 2021-08-11
 technique: Huile sur toile 
 dimensions: 80x80
-price: 650
+price: 
 image:  20210811-80x80.JPG
 author: Garanse
 tags:
