@@ -16,7 +16,7 @@ module Jekyll
 
       def render(context)
         tags = context.registers[:site].tags.map do |tag, posts|
-          [tag, posts.count] if posts.count >= @threshold
+          [tag.capitalize, posts.count] if posts.count >= @threshold
         end
 
         tags.compact!
