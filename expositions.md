@@ -1,7 +1,5 @@
 ---
-layout: page
-pagination:
-  enabled: true
+layout: post
 title: "Expositions"
 ---
 # Planning des expos 2022
