@@ -11,6 +11,6 @@ author: Garanse
 tags:
   - Noir
   - Rouge
-  - jaune
+  - Jaune
 ---
 ![Image]({{ page.image | prepend: site.baseurl}})

@@ -9,7 +9,7 @@ price:
 image: DSC_1434_(2).JPG
 author: Garanse
 tags:
-  - noir
+  - Noir
   - Gris
 ---
 ![Image]({{ page.image | prepend: site.baseurl}})

@@ -11,7 +11,7 @@ author: Garanse
 tags:
   - Bleu
   - Blanc
-  - jaune
+  - Jaune
   - Vert
   
   

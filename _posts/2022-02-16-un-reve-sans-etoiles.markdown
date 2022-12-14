@@ -9,7 +9,7 @@ price: 480
 image: 20220216-65x54.JPG
 author: Garanse
 tags:
-  - bleu
+  - Bleu
   
   
   
