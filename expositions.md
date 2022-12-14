@@ -9,6 +9,7 @@ La vie reprend son cours et les expos sont de nouveau programmées d'une façon 
 
 
 - Exposition personnelle à la **Bibliothèque d'Idron (64) du 19 au 28 Janvier**
+
 - Exposition personnelle à la **Mairie de Lons (64) du 19 au 28 Janvier**
 
 

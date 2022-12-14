@@ -22,7 +22,7 @@
         </a>
         {% tags_list :threshold => 1, :sort_by => name, :order_by => asc, :limit => 30 %}
       </li>
-      <li class="nav-item dropdown">
+      <!-- <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Expos
         </a>
@@ -30,8 +30,8 @@
           <a class="dropdown-item" href="{{ '/expositions/' | relative_url }}">Prochaines expositions</a>
           <a class="dropdown-item" href="{{ '/expositions-passees/' | relative_url }}">Expositions passées</a>
         </div>
-      </li>
-      <!-- <li><a class="nav-item nav-link" href="{{ '/expositions/' | prepend: site.baseurl }}">Expos</a></li> -->
+      </li> -->
+      <li><a class="nav-item nav-link" href="{{ '/expositions/' | prepend: site.baseurl }}">Expos</a></li>
       <li><a class="nav-item nav-link" href="{{ '/g&f/' | prepend: site.baseurl }}">Garanse & Fanchon</a></li>
       <li><a class="nav-item nav-link" href="{{ '/ateliers/' | prepend: site.baseurl }}">Ateliers</a></li>
       <li><a class="nav-item nav-link" href="{{ '/a-propos/' | prepend: site.baseurl }}">A propos</a></li>
