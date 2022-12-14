@@ -9,7 +9,7 @@ title: "Toiles Vendues"
   <div class="grid-xlarge">
     <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
       {% for post in paginator.posts %}
-        {% unless post.price %}
+        {% unless post.price != "" %}
           <!-- The tag below includes the markup for each post - partials/post-card.html -->
           {% include post-card.html %}
         {% endunless %}
