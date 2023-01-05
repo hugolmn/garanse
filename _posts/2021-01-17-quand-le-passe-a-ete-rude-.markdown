@@ -5,7 +5,7 @@ title_author: Georges Isidore Barthe
 date: 2021-01-17 
 technique: Huile sur toile 
 dimensions: 50x50
-price: 350
+price: 450
 image: 20210117-50x50.JPG
 author: Garanse
 tags:

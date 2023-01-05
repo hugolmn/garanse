@@ -5,7 +5,7 @@ title_author: Antonio Gurnetta
 date: 2021-04-22
 technique: Huile sur toile 
 dimensions: diam 60
-price: 450
+price: 550
 image: 20210422-O60.JPG
 author: Garanse
 tags:

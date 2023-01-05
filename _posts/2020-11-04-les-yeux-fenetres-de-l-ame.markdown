@@ -5,7 +5,7 @@ title_author: Georges Rodenbach
 date: 2020-11-04
 technique: Huile sur toile 
 dimensions: 46x55
-price: 350
+price: 450
 image:  20201104-46x55.JPG
 author: Garanse
 tags:

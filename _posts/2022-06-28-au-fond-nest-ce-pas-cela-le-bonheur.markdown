@@ -5,7 +5,7 @@ title_author: Douglas Kennedy
 date: 2022-06-28
 technique: Huile sur toile 
 dimensions: 81x65
-price: 600
+price: 680
 image: 20220628-81x65.JPG
 author: Garanse
 tags:

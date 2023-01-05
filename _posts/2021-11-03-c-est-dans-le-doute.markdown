@@ -5,7 +5,7 @@ title_author: Mofaddel Abderrahim
 date: 2021-11-03
 technique: Huile sur toile 
 dimensions: 60x73
-price: 500
+price: 580
 image: 20211103-60x73.JPG
 author: Garanse
 tags:

@@ -5,7 +5,7 @@ title_author: Macile Hubert
 date: 2021-02-18
 technique: Huile sur toile 
 dimensions: 50x100 3D
-price: 600
+price: 700
 image: 20210218-50x100-3D.JPG
 author: Garanse
 tags:

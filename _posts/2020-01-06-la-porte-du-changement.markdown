@@ -5,7 +5,7 @@ title_author: Jacques Salomé
 date: 2020-01-06
 technique: Huile sur toile
 dimensions: 80x80
-price: 600
+price: 700
 image: DSC_1352_(2).JPG
 author: Garanse
 tags:

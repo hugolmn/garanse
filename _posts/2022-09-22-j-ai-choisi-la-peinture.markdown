@@ -5,7 +5,7 @@ title_author: Marc Chagall
 date: 2022-09-22
 technique: Huile sur toile 
 dimensions: 50x50
-price: 400
+price: 450
 image: 20220922-50x50.JPG
 author: Garanse
 tags:

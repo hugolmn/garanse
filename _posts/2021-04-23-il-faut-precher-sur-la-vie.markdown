@@ -5,7 +5,7 @@ title_author: Alain
 date: 2022-04-23
 technique: Huile sur toile
 dimensions: 73x92
-price: 700
+price: 800
 image: 20220423-73x92.JPG
 author: Garanse
 tags:

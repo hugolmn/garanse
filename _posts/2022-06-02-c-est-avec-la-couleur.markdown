@@ -5,7 +5,7 @@ title_author: Henri Matisse
 date: 2022-06-02
 technique: Huile sur toile
 dimensions: 40x40 
-price: 350
+price: 390
 image: 20220602-40x40.JPG
 author: Garanse
 tags:

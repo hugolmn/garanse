@@ -5,7 +5,7 @@ title_author: Jacques Attali
 date: 2022-10-13
 technique: Huile sur toile 
 dimensions: 80x80
-price: 650
+price: 700
 image: 20221013-80x80.JPG
 author: Garanse
 tags:

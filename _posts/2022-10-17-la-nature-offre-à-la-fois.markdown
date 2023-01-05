@@ -5,7 +5,7 @@ title_author: Pierre Rabhi
 date: 2022-10-17
 technique: Huile sur toile 
 dimensions: 60x73
-price: 550
+price: 580
 image: 20221017-60x73.JPG
 author: Garanse
 tags:

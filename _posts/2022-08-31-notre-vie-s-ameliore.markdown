@@ -5,7 +5,7 @@ title_author: Walter Anderson
 date: 2022-08-31
 technique: Huile sur toile 
 dimensions: 50x50
-price: 400
+price: 450
 image: 20220831-50x50.JPG
 author: Garanse
 tags:

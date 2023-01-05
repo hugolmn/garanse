@@ -5,7 +5,7 @@ title_author: Jacob Nordby
 date: 2021-09-08
 technique: Huile sur toile 
 dimensions: 40x40 3D
-price: 350
+price: 390
 image: 20210908-40x40-3D.JPG
 author: Garanse
 tags:

@@ -5,7 +5,7 @@ title_author: John Joos
 date: 2022-02-28
 technique: Huile sur toile
 dimensions: 60x60
-price: 480
+price: 550
 image: 20220228-60x60.JPG
 author: Garanse
 tags:

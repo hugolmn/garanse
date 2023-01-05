@@ -5,7 +5,7 @@ title_author: Nicole Bordeleau
 date: 2018-02-27
 technique: Huile sur toile 
 dimensions: 89x116
-price: 800
+price: 950
 image:  DSC_1490.JPG
 author: Garanse
 tags:

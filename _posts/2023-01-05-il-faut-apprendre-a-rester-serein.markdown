@@ -5,7 +5,7 @@ title_author: Gandhi
 date: 2023-01-05
 technique: Huile sur toile
 dimensions:O50
-price: 420
+price: 450
 image: 20230105-O50.JPG
 author: Garanse
 tags:

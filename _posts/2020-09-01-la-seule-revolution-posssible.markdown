@@ -5,7 +5,7 @@ title_author: Georges Brassens
 date: 2020-09-01
 technique: Huile sur toile 3D
 dimensions: 40x40
-price: 300
+price: 400
 image:  DSC_1628(2).JPG
 author: Garanse
 tags:
