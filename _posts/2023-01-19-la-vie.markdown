@@ -1,0 +1,23 @@
+---
+layout: painting
+title: "La vie ? Un rien l'amène, un rien l'anime, un rien la mine, un rien l'emmène."    
+title_author: Raymond Queneau    
+date: 2023-01-19
+technique: Huile sur toile
+dimensions: 70x70
+price: 650
+image: 20230119-70x70.JPG
+author: Garanse
+tags:
+  - Orange
+  - Bleu
+  
+  
+  
+ 
+  
+  
+  
+---
+![Image]({{ page.image | prepend: site.baseurl}})
+
