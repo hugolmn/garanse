@@ -5,7 +5,7 @@ title_author: Vincent Thomas Rey
 date: 2022-01-07
 technique: Huile sur toile
 dimensions: 46x55
-price: 450
+price: 
 image: 20220107-46x55.JPG
 author: Garanse
 tags:
