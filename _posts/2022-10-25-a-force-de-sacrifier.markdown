@@ -6,11 +6,10 @@ date: 2022-10-25
 technique: Huile sur toile 
 dimensions: 22x27
 price: 150
-image: 20221025-22x27.JPG
+image: 20221025-22x27B.JPG
 author: Garanse
 tags:
-  - Bleu
-  - Orange
+  - Marron
   
   
   
