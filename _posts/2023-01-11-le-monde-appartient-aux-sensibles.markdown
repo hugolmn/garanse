@@ -5,7 +5,7 @@ title_author: Régis Carlo
 date: 2023-01-11
 technique: Huile sur toile
 dimensions: 40x40 3D
-price: 390
+price:
 image: 20230111-40x40 3D .JPG
 author: Garanse
 tags:
