@@ -5,7 +5,7 @@ title_author: Henri Matisse
 date: 2022-06-03
 technique: Huile sur toile
 dimensions: 65x54 
-price: 550
+price: 
 image: 20220603-65x54.JPG
 author: Garanse
 tags:
