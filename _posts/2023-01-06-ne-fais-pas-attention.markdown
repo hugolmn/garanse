@@ -5,7 +5,7 @@ title_author: Frida Kahlo
 date: 2023-01-06
 technique: Huile sur toile
 dimensions: diam 50
-price: 450
+price: 
 image: 20230106-O50.JPG
 author: Garanse
 tags:

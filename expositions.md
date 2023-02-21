@@ -22,8 +22,6 @@ title: "Expositions"
 
   
 
-- Exposition **58ème Salon du Ripault à Vaugourdon (37)** du 2 au 9 Avril 2023
-
 - Exposition **Paul Bert Quartier d'Art à Tours (37)** le 30 Avril 2023
 
   
