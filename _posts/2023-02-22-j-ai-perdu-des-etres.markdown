@@ -1,7 +1,6 @@
 ---
 layout: painting
-title: A tous ceux qui ont perdu un être cher, je pense que ces mots vous parleront..
-"J'ai perdu des êtres qui étaient pour moi, source de soleil. Ce soleil a été mis en terre. Apparemment mis en terre. Moi je continue à en recevoir les rayons."                      
+title: "J'ai perdu des êtres qui étaient pour moi, source de soleil. Ce soleil a été mis en terre. Apparemment mis en terre. Moi je continue à en recevoir les rayons."                      
 title_author: Christian Bobin                                     
 date: 2023-02-22
 technique: Huile sur toile 
