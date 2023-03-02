@@ -5,7 +5,7 @@ title_author: Alexandre Jollien
 date: 2022-06-06
 technique: Huile sur toile
 dimensions: 60x60
-price: 540
+price: 600
 image: 20220606-60x60.JPG
 author: Garanse
 tags:

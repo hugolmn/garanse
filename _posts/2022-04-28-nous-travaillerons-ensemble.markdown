@@ -5,7 +5,7 @@ title_author: Nelson Mandela
 date: 2022-04-28
 technique: Huile sur toile
 dimensions: 65x54
-price: 550
+price: 600
 image: 20220428-65x54.JPG
 author: Garanse
 tags:

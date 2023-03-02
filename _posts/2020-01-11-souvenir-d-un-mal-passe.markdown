@@ -5,7 +5,7 @@ title_author: Sénèque
 date: 2020-01-11
 technique: Huile sur toile
 dimensions: 89x116
-price: 800
+price: 1000
 image: DSC_1349_(2).JPG
 author: Garanse
 tags:

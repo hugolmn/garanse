@@ -5,7 +5,7 @@ title_author: Hester Browne
 date: 2022-09-16
 technique: Huile sur toile 
 dimensions: 50x100
-price: 700
+price: 750
 image: 20220916-50x100.JPG
 author: Garanse
 tags:

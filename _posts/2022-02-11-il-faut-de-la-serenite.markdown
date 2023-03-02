@@ -5,7 +5,7 @@ title_author: Marc Aurèle
 date: 2022-02-11
 technique: Huile sur toile
 dimensions: 60x73
-price: 580
+price: 600
 image: 20220211-60x73.JPG
 author: Garanse
 tags:

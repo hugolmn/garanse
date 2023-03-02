@@ -5,7 +5,7 @@ title_author: Sœur Emmanuelle
 date: 2021-08-17
 technique: Huile sur toile 
 dimensions: 50x100 3D
-price: 600
+price: 750
 image:  20210817-50x100-3D.JPG
 author: Garanse
 tags:

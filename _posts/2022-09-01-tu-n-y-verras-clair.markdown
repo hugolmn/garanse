@@ -5,7 +5,7 @@ title_author: Carl Jung
 date: 2022-09-01
 technique: Huile sur toile 
 dimensions: 81x65
-price: 680
+price: 700
 image: 20220901-81x65.JPG
 author: Garanse
 tags:

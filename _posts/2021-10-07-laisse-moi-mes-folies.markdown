@@ -5,7 +5,7 @@ title_author: Henry de Montherlant
 date: 2021-10-07
 technique: Huile sur toile
 dimensions: 80x80
-price: 720
+price: 800
 image: 20211007-80x80.JPG
 author: Garanse
 tags:

@@ -5,7 +5,7 @@ title_author: Albert Einstein
 date: 2020-01-16
 technique: Huile sur toile
 dimensions: 50x100
-price: 650
+price: 750
 image: DSC_1353.JPG
 author: Garanse
 tags:

@@ -5,7 +5,7 @@ title_author: Frédéric Lenoir
 date: 2023-01-16
 technique: Huile sur toile
 dimensions: 80x80
-price: 700
+price: 800
 image: 20230116-80x80.JPG
 author: Garanse
 tags:

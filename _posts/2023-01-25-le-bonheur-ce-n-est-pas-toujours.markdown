@@ -5,7 +5,7 @@ title_author:  Confucius
 date: 2023-01-25
 technique: Huile sur toile
 dimensions: 50x50
-price: 450 
+price: 500
 image: 20230125-50x50.JPG
 author: Garanse
 tags:

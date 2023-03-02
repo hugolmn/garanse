@@ -5,7 +5,7 @@ title_author: Anna Magnani
 date: 2019-01-12
 technique: Huile sur toile
 dimensions: 73x92
-price: 750
+price: 800
 image: DSC_0178.JPG 
 author: Garanse
 tags:

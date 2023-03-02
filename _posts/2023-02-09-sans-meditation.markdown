@@ -5,7 +5,7 @@ title_author: Jiddu Krishnamurti
 date: 2023-02-09
 technique: Huile sur toile 
 dimensions: 40x40
-price: 390
+price: 400
 image: 20230209-40x40.JPG
 author: Garanse
 tags:

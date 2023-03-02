@@ -5,7 +5,7 @@ title_author: Milan Kundera
 date: 2021-01-29 
 technique: Huile sur toile 
 dimensions: 60x73
-price: 550
+price: 650
 image: 20210129-60X73.JPG
 author: Garanse
 tags:

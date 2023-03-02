@@ -5,7 +5,7 @@ title_author: Epicure
 date: 2021-10-06
 technique: Huile sur toile
 dimensions: 46x55
-price: 450
+price: 500
 image: 20211006-46x55.JPG
 author: Garanse
 tags:

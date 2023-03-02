@@ -5,7 +5,7 @@ title_author: Christian Bobin
 date: 2023-02-22
 technique: Huile sur toile 
 dimensions: 50x50
-price: 450
+price: 500
 image: 20230222-50X50.jpg
 author: Garanse
 tags:

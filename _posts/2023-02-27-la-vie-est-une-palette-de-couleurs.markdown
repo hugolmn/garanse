@@ -5,7 +5,7 @@ title_author: Joëlle Laurencin
 date: 2023-02-27
 technique: Huile sur toile 
 dimensions: 80x80
-price: 700
+price: 800
 image: 20230227-80x80.jpg
 author: Garanse
 tags:

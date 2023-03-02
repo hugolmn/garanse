@@ -5,7 +5,7 @@ title_author: Christian Bobin
 date: 2022-10-14
 technique: Huile sur toile 
 dimensions: 65x81
-price: 680
+price: 750
 image: 20221014-65x81.JPG
 author: Garanse
 tags:

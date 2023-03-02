@@ -5,7 +5,7 @@ title_author: Jim Morrison
 date: 2022-03-10
 technique: Huile sur toile
 dimensions: 40x40 3D
-price: 390
+price: 400
 image: 20220310-40x40-3D.JPG
 author: Garanse
 tags:

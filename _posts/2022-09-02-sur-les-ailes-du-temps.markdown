@@ -5,7 +5,7 @@ title_author: Jean de La Fontaine
 date: 2022-09-02
 technique: Huile sur toile 
 dimensions: 60x60
-price: 550
+price: 600
 image: 20220902-60x60.JPG
 author: Garanse
 tags:

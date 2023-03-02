@@ -5,7 +5,7 @@ title_author: Matisse
 date: 2021-02-03 
 technique: Huile sur toile 
 dimensions: 81x100
-price: 850
+price: 900
 image: 20210203-81x100.JPG
 author: Garanse
 tags:

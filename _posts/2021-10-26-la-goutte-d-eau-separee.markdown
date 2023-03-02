@@ -5,7 +5,7 @@ title_author: Gandhi
 date: 2022-06-06
 technique: Huile sur toile
 dimensions: 24x35
-price: 220
+price: 250
 image: 20220606-24x35.JPG
 author: Garanse
 tags:

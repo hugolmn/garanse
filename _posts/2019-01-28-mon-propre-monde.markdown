@@ -5,7 +5,7 @@ title_author: Anaïs Nin
 date: 2019-01-28
 technique: Huile sur toile
 dimensions: 60x81
-price: 600
+price: 700
 image: DSC_0174.JPG 
 author: Garanse
 tags:

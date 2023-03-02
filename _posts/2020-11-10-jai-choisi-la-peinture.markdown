@@ -5,7 +5,7 @@ title_author: Marc Chagall
 date: 2020-11-10
 technique: Huile sur toile 
 dimensions: 80x80
-price: 720
+price: 800
 image: 20201110-80X80.JPG
 author: Garanse
 tags:

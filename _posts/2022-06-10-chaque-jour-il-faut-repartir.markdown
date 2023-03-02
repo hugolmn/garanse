@@ -5,7 +5,7 @@ title_author: François Cheng
 date: 2022-06-10
 technique: Huile sur toile
 dimensions: Diam 50
-price: 400
+price: 500
 image: 20220610-diam50.JPG
 author: Garanse
 tags:

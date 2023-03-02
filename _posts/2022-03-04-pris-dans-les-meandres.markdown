@@ -5,7 +5,7 @@ title_author: Serge Lapisse
 date: 2022-03-04
 technique: Huile sur toile 
 dimensions: 80x80
-price: 720
+price: 800
 image: 20220304-80x80.JPG
 author: Garanse
 tags:
