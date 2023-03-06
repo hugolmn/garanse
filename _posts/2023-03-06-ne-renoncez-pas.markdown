@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "Ne renoncez pas à faire ce que vus voulez vraiment. Là où il y a des rêves, de l'amour et de l'inspiration, vous ne pourrez pas vous tromper."   
+title: "Ne renoncez pas à faire ce que vous voulez vraiment. Là où il y a des rêves, de l'amour et de l'inspiration, vous ne pourrez pas vous tromper."   
 title_author: Ella Fitzgerald    
 date: 2023-03-06
 technique: Huile sur toile
