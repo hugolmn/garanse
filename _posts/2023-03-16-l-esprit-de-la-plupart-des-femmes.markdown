@@ -1,7 +1,7 @@
 ---
 layout: painting
-title: "L'esprit de la plupart des femmes sert plus à fortifier leur folie que leur raison."     
-title_author: François de La Rochefoucauld   
+title: "La folie est une ivresse sans fin, où la joie, les délices, les enchantements se renouvellent sans cesse."    
+title_author: Erasme   
 date: 2023-03-16
 technique: Huile sur toile
 dimensions: 80x80
