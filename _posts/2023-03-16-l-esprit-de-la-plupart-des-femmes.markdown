@@ -1,12 +1,12 @@
 ---
 layout: painting
-title: "C'est bien la pire folie que de vouloir rester sage dans un monde de fous."    
-title_author: Erasme    
-date: 2023-03-15
+title: "L'esprit de la plupart des femmes sert plus à fortifier leur folie que leur raison."     
+title_author: François de La Rochefoucauld   
+date: 2023-03-16
 technique: Huile sur toile
 dimensions: 80x80
 price: 800
-image: 20230315-80x80.JPG
+image: 20230316-92x65.JPG
 author: Garanse
 tags:
   - Bleu
