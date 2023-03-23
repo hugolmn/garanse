@@ -5,7 +5,7 @@ title_author: Kate Chopin
 date: 2023-01-31
 technique: Huile sur toile
 dimensions: 22x27
-price: 150
+price: 
 image: 20230131-22x27.JPG
 author: Garanse
 tags:
