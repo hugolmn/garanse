@@ -5,7 +5,7 @@ title_author: John Joos
 date: 2023-03-03
 technique: Huile sur toile
 dimensions: 40x40 3D
-price: 400
+price: 
 image: 20230303-40x40 3D.JPG
 author: Garanse
 tags:
