@@ -6,7 +6,7 @@ date: 2023-06-02
 technique: Huile sur toile
 dimensions: 40x40
 price: 400
-image: 20230602-40x40.JPG
+image: 20230602-40X40.jpg
 author: Garanse
 tags:
   - Bleu
