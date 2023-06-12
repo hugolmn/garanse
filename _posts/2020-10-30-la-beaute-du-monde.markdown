@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "La beauté du monde qui disparaîtra bientôt a deux extrémités : celle du rire, et celle de l'angoisee, coupant le coeur en deux."                     
+title: "La beauté du monde qui disparaîtra bientôt a deux extrémités : celle du rire, et celle de l'angoisse, coupant le coeur en deux."                     
 title_author: Virginia Woolf                                            
 date: 2020-10-30
 technique: Huile sur toile 
