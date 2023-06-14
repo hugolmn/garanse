@@ -5,7 +5,7 @@ title_author: Auteur inconnu
 date: 2023-06-12
 technique: Huile sur toile 
 dimensions: 81x100
-price: 900
+price: 
 image:  20230612-81x100.JPG
 author: Garanse
 tags:

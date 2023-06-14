@@ -5,7 +5,7 @@ title_author: André Malraux
 date: 2023-06-07
 technique: Huile sur toile
 dimensions: 70x100
-price: 850
+price: 
 image: 20230607-70x100.JPG
 author: Garanse
 tags:
