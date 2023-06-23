@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "Cessez se vous demander ce que le futur vous réserve et prenez comme cadeau ce que la journée vous apporte."                       
+title: "Cessez de vous demander ce que le futur vous réserve et prenez comme cadeau ce que la journée vous apporte."                       
 title_author: Horace                                       
 date: 2023-02-14
 technique: Huile sur toile 
