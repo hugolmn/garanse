@@ -5,7 +5,7 @@ title_author: Richard Bohringer
 date: 2023-02-13
 technique: Huile sur toile 
 dimensions: 100x100
-price: 1000
+price: 
 image: 20230213-100x100.JPG
 author: Garanse
 tags:
