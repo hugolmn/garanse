@@ -4,7 +4,7 @@ title: "Ne demeure pas dans le passé, ne rêve pas du futur, concentre ton espr
 title_author: Bouddha
 technique: Huile sur toile
 dimensions: 81x65
-price: 750
+price: 
 image: 20230615-81x65.JPG
 author: Garanse
 tags:

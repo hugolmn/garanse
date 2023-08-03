@@ -5,7 +5,7 @@ title_author: Nicolas Proupain
 date: 2023-04-25
 technique: Huile sur toile 
 dimensions: 80x80
-price: 800
+price: 
 image: 20230425-80x80.JPG
 author: Garanse
 tags:
