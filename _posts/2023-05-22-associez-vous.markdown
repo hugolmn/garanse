@@ -5,7 +5,7 @@ title_author: Paolo Coelho
 date: 2023-05-22
 technique: Huile sur toile
 dimensions: 50x50
-price: 500
+price: 
 image: 20230522-50x50.JPG
 author: Garanse
 tags:
