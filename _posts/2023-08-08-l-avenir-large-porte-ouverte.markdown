@@ -5,7 +5,7 @@ title_author: Michelle Le Normand (écrivain)
 date: 2023-08-08
 technique: Huile sur toile 
 dimensions: 50x100
-price: 750
+price: 800
 image: 20230808-50x100.JPG
 author: Garanse
 tags:
