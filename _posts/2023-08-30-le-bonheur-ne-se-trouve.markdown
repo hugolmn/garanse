@@ -5,7 +5,7 @@ title_author: Tahar Ben Jelloun
 date: 2023-08-30
 technique: Huile sur toile 
 dimensions: 54x65
-price: 600
+price: 
 image: 20230830-54x65.JPG
 author: Garanse
 tags:
