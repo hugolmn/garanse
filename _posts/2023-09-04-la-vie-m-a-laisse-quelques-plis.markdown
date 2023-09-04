@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "La vie m'a laissé quelques plis. Puis, je me suis déplié, défroissé. J'ai sorti ma plus belle plume et j'ai écrit une nouvelle histoire. Celle-ci dit : "Tu es aimé avec tous tes morceaux."  
+title: "La vie m'a laissé quelques plis. Puis, je me suis déplié, défroissé. J'ai sorti ma plus belle plume et j'ai écrit une nouvelle histoire. Celle-ci dit : Tu es aimé avec tous tes morceaux."  
 title_author: Régis Carlo                                                           
 date: 2023-09-04
 technique: Huile sur toile 
