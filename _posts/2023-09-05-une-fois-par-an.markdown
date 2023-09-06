@@ -5,7 +5,7 @@ title_author: Dalaï Lama
 date: 2023-09-05
 technique: Huile sur toile 
 dimensions: 81x65
-price: 750
+price: 
 image: 20230905-81x65.JPG
 author: Garanse
 tags:
