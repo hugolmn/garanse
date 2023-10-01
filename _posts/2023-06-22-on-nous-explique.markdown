@@ -4,7 +4,7 @@ title: "On nous apprend à compter les secondes, les minutes, les heures, les jo
 title_author: Donato Carrisi 
 technique: Huile sur toile
 dimensions: 24x35
-price: 250
+price: 
 image: 20230622-24x35.JPG
 author: Garanse
 tags:
