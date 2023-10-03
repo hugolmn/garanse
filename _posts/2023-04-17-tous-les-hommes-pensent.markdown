@@ -5,7 +5,7 @@ title_author: Confucius
 date: 2023-04-17
 technique: Huile sur toile 
 dimensions: 30x30
-price: 250
+price: 
 image: 20230417-30x30.JPG
 author: Garanse
 tags:

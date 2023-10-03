@@ -5,7 +5,7 @@ title_author: Erik Orsenna
 date: 2023-08-28
 technique: Huile sur toile 
 dimensions: diam 50
-price: 500
+price: 
 image: 20230828-diam50.JPG
 author: Garanse
 tags:

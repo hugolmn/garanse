@@ -5,7 +5,7 @@ title_author: Jean d'Ormesson
 date: 2023-02-07
 technique: Huile sur toile 
 dimensions: 22x27
-price: 150
+price: 
 image: 20230207-22x27.JPG
 author: Garanse
 tags:
