@@ -5,7 +5,7 @@ title_author: Anne Frank
 date: 2023-10-18
 technique: Huile sur toile 
 dimensions: 40x40
-price: 400
+price: 
 image: 20231018-40x40.JPG
 author: Garanse
 tags:

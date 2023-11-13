@@ -4,7 +4,7 @@ title: "Voyager rend modeste. Vous voyez quelle petite place vous occupez dans l
 title_author: Gustave Flaubert
 technique: Huile sur toile
 dimensions: 50x61
-price: 550
+price: 
 image: 20230823-50x61.JPG
 author: Garanse
 tags:
