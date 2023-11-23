@@ -5,7 +5,7 @@ title_author: Martin Luther King
 date: 2023-10-20
 technique: Huile sur toile 
 dimensions: 80x80
-price: 800
+price: 
 image: 20231020-80x80.JPG
 author: Garanse
 tags:

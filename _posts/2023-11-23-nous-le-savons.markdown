@@ -1,7 +1,7 @@
 ---
 layout: painting
 title: "Nous le savons à présent, les moyens d'information répandent l'inconscience aussi sûrement que la lumière répand l'ombre ; plus le projecteur est puissant, plus l'ombre est épaisse." 
-title_author:Amin Maalouf    
+title_author: Amin Maalouf    
 date: 2023-11-23 
 technique: Huile sur toile
 dimensions: 80x80
