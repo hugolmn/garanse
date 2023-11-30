@@ -5,7 +5,7 @@ title_author: Sœur Emmanuelle
 date: 2023-11-20
 technique: Huile sur toile
 dimensions: 80x80
-price: 800
+price: 
 image: 20231120-80x80.JPG
 author: Garanse
 tags:
