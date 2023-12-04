@@ -5,7 +5,7 @@ title_author: Brene Brown
 date: 2021-08-03 
 technique: Huile sur toile 
 dimensions: 40x40 3D
-price: 350
+price: 
 image: 20210803-40x40-3D.JPG
 author: Garanse
 tags:
