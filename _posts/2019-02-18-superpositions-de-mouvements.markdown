@@ -5,7 +5,7 @@ title_author: Delphine de Vigan
 date: 2019-02-18
 technique: Huile sur toile
 dimensions: 81x100
-price: 900
+price: 9999
 image: DSC_0186(3).JPG 
 author: Garanse
 tags:

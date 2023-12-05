@@ -5,7 +5,7 @@ title_author: Pablo Neruda
 date: 2022-03-03
 technique: Huile sur toile 
 dimensions: 89x116
-price: 1100 
+price: 1200
 image: 20220303-89x116.JPG
 author: Garanse
 tags:

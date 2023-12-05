@@ -5,7 +5,7 @@ title_author: Joseph Campbell
 date: 2020-10-02
 technique: Huile sur toile 
 dimensions: 60x60
-price: 520
+price: 600
 image:  DSC_1638(3).JPG
 author: Garanse
 tags:

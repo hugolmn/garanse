@@ -5,7 +5,7 @@ title_author: Jacques Prévert
 date: 2022-08-19
 technique: Huile sur toile 
 dimensions: 30x30
-price: 250
+price: 300
 image: 20220819-30x30.JPG
 author: Garanse
 tags:

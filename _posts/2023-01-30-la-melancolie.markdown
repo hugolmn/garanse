@@ -5,7 +5,7 @@ title_author: Charles Baudelaire
 date: 2023-01-30
 technique: Huile sur toile
 dimensions: 60x73
-price: 600
+price: 9999
 image: 20230130-60x73.JPG
 author: Garanse
 tags:

@@ -5,7 +5,7 @@ title_author: Osho
 date: 2021-12-15
 technique: Huile sur toile
 dimensions: 50x50
-price: 450
+price: 500
 image: 20211215-50x50.JPG
 author: Garanse
 tags:

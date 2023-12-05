@@ -5,7 +5,7 @@ title_author: Léonard Cohen
 date: 2021-12-10
 technique: Huile sur toile
 dimensions: 65x54 
-price: 480
+price: 650
 image: 20211210-65x54.JPG
 author: Garanse
 tags:

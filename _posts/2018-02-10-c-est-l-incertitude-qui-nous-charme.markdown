@@ -5,7 +5,7 @@ title_author: Oscar Wilde
 date: 2018-02-10
 technique: Huile sur toile 
 dimensions: 89x116
-price: 950
+price: 1200
 image: DSC_1483(3).JPG 
 author: Garanse
 tags:

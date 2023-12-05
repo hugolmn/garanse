@@ -5,7 +5,7 @@ title_author: Léonard de Vinci
 date: 2022-09-01
 technique: Huile sur toile 
 dimensions: 30x30
-price: 250
+price: 300
 image: 20220901-30x30.JPG
 author: Garanse
 tags:

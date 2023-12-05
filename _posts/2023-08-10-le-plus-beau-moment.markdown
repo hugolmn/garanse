@@ -5,7 +5,7 @@ title_author: Sir Richard Burton
 date: 2023-08-10
 technique: Huile sur toile 
 dimensions: 60x60
-price: 600
+price: 650
 image: 20230810-60x60B.JPG
 author: Garanse
 tags:

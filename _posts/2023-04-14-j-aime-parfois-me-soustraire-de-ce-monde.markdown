@@ -5,7 +5,7 @@ title_author: Régis Carlo
 date: 2023-04-14
 technique: Huile sur toile 
 dimensions: 70x70
-price: 700
+price: 750
 image: 20230414-70x70.JPG
 author: Garanse
 tags:

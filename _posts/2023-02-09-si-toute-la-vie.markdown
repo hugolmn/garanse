@@ -5,7 +5,7 @@ title_author: Marc Chagall
 date: 2023-02-09
 technique: Huile sur toile 
 dimensions: 65x54
-price: 600
+price: 650
 image: 20230209-65x54.JPG
 author: Garanse
 tags:

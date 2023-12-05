@@ -5,7 +5,7 @@ title_author: Ella Fitzgerald
 date: 2019-12-09
 technique: Huile sur toile
 dimensions: 80x80
-price: 600
+price: 850
 image: DSC_1256.jpg
 author: Garanse
 tags:

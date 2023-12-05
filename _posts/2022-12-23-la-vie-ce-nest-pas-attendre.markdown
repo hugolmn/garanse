@@ -5,7 +5,7 @@ title_author: Sénèque
 date: 2022-12-23
 technique: Huile sur toile 
 dimensions: 80x80
-price: 800
+price: 850
 image: 20221223-80x80.JPG
 author: Garanse
 tags:

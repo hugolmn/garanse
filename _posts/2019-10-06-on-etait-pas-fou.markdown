@@ -5,7 +5,7 @@ title_author: Christian Bobin
 date: 2019-10-02
 technique: Huile sur toile
 dimensions: 35x46
-price: 250
+price: 400
 image: DSC_1093(2).JPG
 author: Garanse
 tags:

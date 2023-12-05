@@ -5,7 +5,7 @@ title_author: Paul Claudel
 date: 2022-05-04
 technique: Huile sur toile 
 dimensions: 60x73
-price: 500
+price: 700
 image: 20220504-60x73.JPG
 author: Garanse
 tags:

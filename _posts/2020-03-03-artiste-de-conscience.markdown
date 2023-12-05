@@ -5,7 +5,7 @@ title_author: Alex Grey
 date: 2020-03-03
 technique: Huile sur toile
 dimensions: 73x54
-price: 450
+price: 700
 image: DSC_1443_(2).JPG
 author: Garanse
 tags:

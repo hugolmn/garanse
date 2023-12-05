@@ -5,7 +5,7 @@ title_author: Paul Eluard
 date: 2022-02-16
 technique: Huile sur toile
 dimensions: 65x54
-price: 600
+price: 650
 image: 20220216-65x54.JPG
 author: Garanse
 tags:

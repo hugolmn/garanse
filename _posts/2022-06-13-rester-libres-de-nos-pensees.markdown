@@ -5,7 +5,7 @@ title_author:  Pierre Rabhi
 date: 2022-06-13
 technique: Huile sur toile
 dimensions: 65x81
-price: 700
+price: 800
 image: 20220613-65x81.JPG
 author: Garanse
 tags:

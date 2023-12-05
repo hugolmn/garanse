@@ -4,7 +4,7 @@ title: "En route, le mieux c'est de se perdre. Lorsqu'on s'égare, les projets f
 title_author: Nicolas Bouvier
 technique: Huile sur toile
 dimensions: 54x65
-price: 600
+price: 650
 image: 20230824-54x65.JPG
 author: Garanse
 tags:

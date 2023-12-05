@@ -5,7 +5,7 @@ title_author: Erasme
 date: 2023-03-16
 technique: Huile sur toile
 dimensions: 80x80
-price: 800
+price: 9999
 image: 20230316-92x65.JPG
 author: Garanse
 tags:

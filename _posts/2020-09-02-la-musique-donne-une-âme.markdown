@@ -5,7 +5,7 @@ title_author: Platon
 date: 2020-09-02
 technique: Huile sur toile 
 dimensions: 60x81
-price: 600
+price: 700
 image:  DSC_1629(2).JPG
 author: Garanse
 tags:

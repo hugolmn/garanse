@@ -5,7 +5,7 @@ title_author: Henri Lewis
 date: 2023-10-23
 technique: Huile sur toile 
 dimensions: 80x80
-price: 800
+price: 850
 image: 20231023-80x80.JPG
 author: Garanse
 tags:

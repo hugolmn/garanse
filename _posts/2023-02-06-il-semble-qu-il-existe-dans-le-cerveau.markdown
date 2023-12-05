@@ -5,7 +5,7 @@ title_author: Geneviève Grandbois
 date: 2023-02-06
 technique: Huile sur toile
 dimensions: 92x73
-price: 800
+price: 9999
 image: 20230206-92x73.JPG
 author: Garanse
 tags:

@@ -5,7 +5,7 @@ title_author: Anatole France
 date: 2019-11-08
 technique: Huile sur toile
 dimensions: 40x40
-price: 300
+price: 400
 image: DSC_1175_(2).JPG
 author: Garanse
 tags:

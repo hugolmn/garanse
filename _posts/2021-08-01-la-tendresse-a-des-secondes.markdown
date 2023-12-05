@@ -5,7 +5,7 @@ title_author: Romain Gary
 date: 2021-08-01
 technique: Huile sur toile 
 dimensions: 46x55
-price: 400
+price: 550
 image: 20210801-46x55.JPG
 author: Garanse
 tags:

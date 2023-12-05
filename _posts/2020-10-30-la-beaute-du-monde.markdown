@@ -5,7 +5,7 @@ title_author: Virginia Woolf
 date: 2020-10-30
 technique: Huile sur toile 
 dimensions: 92x73
-price: 800
+price: 9999
 image:  20201030-92X73.JPG
 author: Garanse
 tags:
