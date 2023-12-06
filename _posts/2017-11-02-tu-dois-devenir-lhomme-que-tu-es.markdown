@@ -5,7 +5,7 @@ title_author: Friedrich Nietzsche
 date: 2017-11-02
 technique: Huile sur toile 
 dimensions: 81x65
-price: 9999
+price: 800
 image:  DSC_1140.JPG
 author: Garanse
 tags:

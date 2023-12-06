@@ -5,7 +5,7 @@ title_author: Carl Gustav Jung
 date: 2019-10-02
 technique: Huile sur toile
 dimensions: 65x81
-price: 700
+price: 800
 image: Marron.JPG
 author: Garanse
 tags:
