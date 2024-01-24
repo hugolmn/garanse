@@ -6,7 +6,7 @@ title_author: Citation bouddhiste
 date: 2024-01-19
 technique: Huile sur toile 
 dimensions: 73x92
-price: 850
+price: 950
 image: 20240119-73x92.JPG 	
 author: Garanse
 tags:
