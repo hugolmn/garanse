@@ -5,7 +5,7 @@ title_author: Natsume Soseki
 date: 2023-12-13
 technique: Huile sur toile 
 dimensions: 81x100
-price: 1000
+price: 
 image: 20231213-81x100.JPG
 author: Garanse
 tags:
