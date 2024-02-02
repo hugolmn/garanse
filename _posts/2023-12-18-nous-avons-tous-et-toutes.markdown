@@ -9,7 +9,7 @@ price: 1200
 image: 20231218-100x100.JPG
 author: Garanse
 tags:
-  - Vert
+  - Bleu
   
   
   
