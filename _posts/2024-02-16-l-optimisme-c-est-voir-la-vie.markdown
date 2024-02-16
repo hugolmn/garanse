@@ -6,7 +6,7 @@ date: 2024-02-16
 technique: Huile sur toile 
 dimensions: 81x100
 price: 1000
-image: 2024021.JPG6-81x100
+image: 20240216-81x100.JPG
 author: Garanse
 tags:
   - Orange
