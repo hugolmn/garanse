@@ -6,7 +6,7 @@ date: 2024-02-27
 technique: Huile sur toile 
 dimensions: 80x80
 price: 850
-image: 20240227-80x80.JPG
+image: 20240227-80x80.JPG 
 author: Garanse
 tags:
   - Jaune
