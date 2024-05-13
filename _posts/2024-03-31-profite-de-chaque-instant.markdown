@@ -5,7 +5,7 @@ title_author: Peter Cenas
 date: 2024-03-31
 technique: Huile sur toile 
 dimensions: 80x80
-price: 850
+price: 
 image: 20240331-80x80.JPG 
 author: Garanse
 tags:

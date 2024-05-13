@@ -5,7 +5,7 @@ title_author: Natalia Logvinova Smalto (créatrice de la Fondation Signature)
 date: 2023-10-09
 technique: Huile sur toile 
 dimensions: diam 50
-price: 9999
+price: 
 image: 20231009-diam50.JPG
 author: Garanse
 tags:
