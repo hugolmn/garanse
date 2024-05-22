@@ -5,7 +5,7 @@ title_author: Mario Morini
 date: 2024-04-23
 technique: Huile sur toile 
 dimensions: 40x40
-price: 400
+price: 
 image: 20240423-40x40.JPG 
 author: Garanse
 tags:

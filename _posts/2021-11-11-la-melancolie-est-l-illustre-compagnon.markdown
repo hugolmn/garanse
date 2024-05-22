@@ -5,7 +5,7 @@ title_author: Charles Baudelaire
 date: 2021-11-11
 technique: Huile sur toile
 dimensions: 80x80 
-price: 850
+price: 
 image: 20211111-80x80.JPG
 author: Garanse
 tags:

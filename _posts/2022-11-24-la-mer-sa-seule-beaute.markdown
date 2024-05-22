@@ -5,7 +5,7 @@ title_author: Reine Malouin
 date: 2022-11-24
 technique: Huile sur toile
 dimensions: 19x24
-price: 120
+price: 
 image: 20221124-19x24.JPG
 author: Garanse
 tags:
