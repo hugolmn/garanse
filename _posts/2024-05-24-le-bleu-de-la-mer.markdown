@@ -9,7 +9,7 @@ price: 150
 image: 20240524-22x27.JPG 
 author: Garanse
 tags:
-  - Bleu
+  - Marine
   
   
   
