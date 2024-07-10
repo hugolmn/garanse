@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: « La sérénité, c’est de voir avec les yeux d’un ange, l’absolue profondeur du silence. »                                                                                                 
+title: "La sérénité, c’est de voir avec les yeux d’un ange, l’absolue profondeur du silence."                                                                                                 
 title_author: Sonia Lahsaini                                                            
 date: 2023-10-09
 technique: Huile sur toile 
