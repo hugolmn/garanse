@@ -9,7 +9,7 @@ price: 300
 image: 20240625-24x35.JPG 
 author: Garanse
 tags:
-  - Marine
+  - Marines
   
   
   
