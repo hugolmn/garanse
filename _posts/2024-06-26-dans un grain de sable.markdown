@@ -5,7 +5,7 @@ title_author: William Blake
 date: 2024-06-26
 technique: Huile sur toile 
 dimensions: 60x73
-price: 750
+price: 
 image: 20240626-60x73.JPG 
 author: Garanse
 tags:
