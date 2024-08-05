@@ -5,7 +5,7 @@ title_author: Géronimo
 date: 2023-10-25
 technique: Huile sur toile 
 dimensions: Diam 50
-price: 500
+price: 
 image: 20231025-O50.JPG
 author: Garanse
 tags:
