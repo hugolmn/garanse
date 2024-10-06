@@ -5,7 +5,7 @@ title_author: Christophe Colomb
 date: 2024-05-31
 technique: Huile sur toile 
 dimensions: 81x65
-price: 800
+price:
 image: 20240531-81x65.JPG 
 author: Garanse
 tags:
