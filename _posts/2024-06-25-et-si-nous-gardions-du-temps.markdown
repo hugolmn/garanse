@@ -5,7 +5,7 @@ title_author: Christophe André
 date: 2024-06-25
 technique: Huile sur toile 
 dimensions: 24x35
-price: 280
+price: 
 image: 20240625-24x35.JPG 
 author: Garanse
 tags:

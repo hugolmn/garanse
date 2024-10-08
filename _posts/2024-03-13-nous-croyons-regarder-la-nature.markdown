@@ -5,7 +5,7 @@ title_author: Christian Charrière
 date: 2024-03-13
 technique: Huile sur toile 
 dimensions: 54x65
-price: 600
+price: 
 image: 20240313-54x65.JPG 
 author: Garanse
 tags:
