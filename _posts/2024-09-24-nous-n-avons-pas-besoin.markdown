@@ -5,7 +5,7 @@ title_author: J.K.Rowling
 date: 2024-09-24
 technique: Huile sur toile 
 dimensions: Diam 50
-price: 
+price: 500
 image: 20240924-O50.JPG 
 author: Garanse
 tags:

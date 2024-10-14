@@ -5,7 +5,7 @@ title_author:
 date: 2024-09-03
 technique: Huile sur toile 
 dimensions: 70x70
-price: 750
+price: 
 image: 20240903-70x70.JPG 
 author: Garanse
 tags:
