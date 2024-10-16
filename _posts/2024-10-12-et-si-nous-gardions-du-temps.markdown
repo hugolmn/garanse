@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "Et si nous gardions du temps pour ne rien faire, pour contempler, pour respirer ? 
+title: "Et si nous gardions du temps pour ne rien faire, pour contempler, pour respirer ?" 
 title_author: Christophe André 					                                                  
 date: 2024-10-12
 technique: Huile sur toile 
