@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "L'art est une évasion de la réalité." Henri Matisse
+title: "L'art est une évasion de la réalité." 
 title_author: Henri Matisse 					                                                  
 date: 2024-10-16
 technique: Huile sur toile 
