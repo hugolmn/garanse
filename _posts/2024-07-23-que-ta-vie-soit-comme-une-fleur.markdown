@@ -5,7 +5,7 @@ title_author: Sagesse amérindienne
 date: 2024-07-23
 technique: Huile sur toile 
 dimensions: 60x60
-price: 650
+price: 
 image: 20240723-60x60.JPG 
 author: Garanse
 tags:
