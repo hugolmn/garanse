@@ -5,7 +5,7 @@ title_author: Charles Baudelaire
 date: 2024-11-25
 technique: Huile sur toile 
 dimensions: O50
-price: 500
+price: 
 image: 20241125-O50.JPG 
 author: Garanse
 tags:

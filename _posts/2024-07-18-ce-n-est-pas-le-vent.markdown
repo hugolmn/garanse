@@ -5,7 +5,7 @@ title_author: Jim Rohn
 date: 2024-07-18
 technique: Huile sur toile 
 dimensions: 19x24
-price: 120
+price: 
 image: 20240718-19x24.JPG 
 author: Garanse
 tags:
