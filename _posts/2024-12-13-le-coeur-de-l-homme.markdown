@@ -5,7 +5,7 @@ title_author: Vincent Van Gogh
 date: 2024-12-13
 technique: Huile sur toile 
 dimensions: Ovale 40x50
-price: 500
+price: 
 image: 20241213-O40x50.JPG 
 author: Garanse
 tags:
