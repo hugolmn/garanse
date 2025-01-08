@@ -5,11 +5,13 @@ title: "A propos"
 
 ## Inspiration Garanse
 
-C'est lors d'une période de remise en question totale que la peinture s'est imposée à moi. Ma pratique de l'abstraction, intuitive voir impulsive, permet la projection de mes émotions sur mon support. Je peins ce que je suis et le public y trouve ce qu'il est.
+Originaire du Sud-Ouest et résidant en Touraine depuis plus de deux décennies, Garanse s'illustre par son approche unique de l'art. Ses œuvres, ancrées dans un univers principalement abstrait, flirtent parfois avec le semi-figuratif. Grâce à l'abstraction lyrique, elle parvient à traduire ses émotions sur la toile, souvent inspirées par l'actualité et explorées à travers le prisme du développement personnel.
 
-Ma peinture répond toujours à un besoin d'exprimer sur une toile mon inconscient sans jamais avoir une idée précise de ce que je vais peindre lorsque je pose mon premier coup de pinceau. Je peins toujours vite, et tiens à finir ma toile d'une seule traite. Ainsi, l'émotion exprimée sur l'instant reste intacte et spontanée.
+ Ce qui a commencé comme une forme de thérapie personnelle s'est transformé en un véritable art de vivre pour Garanse. Chaque tableau, riche en teintes vibrantes, est accompagné d'une citation d'écrivains ou de philosophes, invitant le spectateur à un voyage dans un imaginaire ressourçant. Cette démarche artistique ne se limite pas à l'esthétique ; elle incite également à la réflexion sur la vie et ses multiples facettes.
 
-Chaque tableau est accompagné d'une citation qui fait écho aux émotions ressenties lors de ma création, invitant ceux qui le souhaitent à une réflexion sur la vie !
+"Ma peinture répond toujours à un besoin d'exprimer sur une toile mon inconscient sans jamais avoir une idée précise de ce que je vais peindre lorsque je pose mon premier coup de pinceau. Je peins toujours vite, et tiens à finir ma toile d'une seule traite. Ainsi, l'émotion exprimée sur l'instant reste intacte et spontanée."
+
+Au travers des toiles de Garanse, l'art devient une expérience à la fois sensorielle et introspective.
 
 
 
@@ -39,7 +41,7 @@ Je participe à différents salons de peinture en Touraine.
 
 Plusieurs fois par an, j'ouvre les portes de mon atelier au public pour permettre aux visiteurs de découvrir l'ensemble de mes toiles.
 
-J'organise également régulièrement des expos en solo chez des particuliers, chez des amis ou dans la famille, qui souhaitent faire découvrir mes œuvres à leur entourage dans un contexte convivial. Parfois en Touraine mais aussi dans d'autres régions en France (Sud-Ouest, Bretagne, Picardie, Région parisienne...)
+J'organise également régulièrement des expos en solo chez des particuliers, chez des amis ou dans la famille, qui souhaitent faire découvrir mes œuvres à leur entourage dans un contexte convivial. Parfois en Touraine mais aussi dans d'autres régions en France (Sud-Ouest, Normandie, Région parisienne...)
 
 ---
 <blockquote>
