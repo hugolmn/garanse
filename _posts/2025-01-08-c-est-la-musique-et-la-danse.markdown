@@ -5,7 +5,7 @@ title_author: Nelson Mandela
 date: 2025-01-08
 technique: Huile sur toile
 dimensions: 60x73
-price: 750 
+price:  
 image: 20250108-60x73.JPG
 author: Garanse
 tags:
@@ -13,6 +13,7 @@ tags:
   - Orange
   - Jaune
   - Bleu
+  - Rose
   
   
   
