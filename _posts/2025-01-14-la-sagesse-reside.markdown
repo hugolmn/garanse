@@ -5,7 +5,7 @@ title_author: Rudy Merouchi
 date: 2025-01-14
 technique: Huile sur toile
 dimensions: 80x80
-price: 850 
+price: 
 image: 20250114-80x80.JPG
 author: Garanse
 tags:
