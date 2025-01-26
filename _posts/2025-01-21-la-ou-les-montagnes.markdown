@@ -4,9 +4,9 @@ title: "Là où les montagnes touchent le ciel, et où les aurores boréales ill
 title_author:  Anonyme   
 date: 2025-01-21
 technique: Huile sur toile
-dimensions: 80x80
+dimensions: 60x73
 price: 
-image: 20250114-80x80.JPG
+image: 20250121-60x73.JPG
 author: Garanse
 tags:
   - Bleu
