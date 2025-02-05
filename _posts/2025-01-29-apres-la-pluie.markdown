@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "Après la pluie, la vie semble plus belle, plus paisible, plus authentique. Un nouveau soleil fait son apparition dévoilant un parterre de fleurs fraîchement arrosées. Faut-il encore pouvoir sortir et apercevoir cet éclat de vie " 
+title: "Après la pluie, la vie semble plus belle, plus paisible, plus authentique. Un nouveau soleil fait son apparition dévoilant un parterre de fleurs fraîchement arrosées. Faut-il encore pouvoir sortir et apercevoir cet éclat de vie." 
 title_author: Joyce Minck          
 date: 2025-01-29
 technique: Huile sur toile
