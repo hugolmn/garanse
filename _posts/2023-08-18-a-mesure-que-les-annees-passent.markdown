@@ -5,7 +5,7 @@ title_author: Patrick Modiano
 date: 2023-08-18
 technique: Huile sur toile
 dimensions: 60x73 
-price: 9999
+price: 750
 image: 20230818-60x73.JPG
 author: Garanse
 tags:

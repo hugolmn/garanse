@@ -5,7 +5,7 @@ title_author: Carlos Luis Zafon
 date: 2022-03-24
 technique: Huile sur toile
 dimensions: 46x55
-price: 9999
+price: 550
 image: 20220324-46x55.JPG
 author: Garanse
 tags:

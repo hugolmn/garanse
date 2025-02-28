@@ -5,7 +5,7 @@ title_author: Elaine Hussey
 date: 2023-03-31
 technique: Huile sur toile 
 dimensions: 65x81
-price: 9999
+price: 800
 image: 20230331-65x81.JPG
 author: Garanse
 tags:

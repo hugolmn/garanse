@@ -4,7 +4,7 @@ title: "Les gens sont comme des vitraux. Ils brillent tant qu'il fait soleil, ma
 title_author: Elisabeth Kubler-Ross 
 technique: Huile sur toile
 dimensions: 80x80
-price: 9999
+price: 850
 image: 20230616-80x80.JPG
 author: Garanse
 tags:

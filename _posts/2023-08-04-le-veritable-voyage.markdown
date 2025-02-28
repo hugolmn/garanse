@@ -4,7 +4,7 @@ title: "Le véritable voyage, ce n'est pas de parcourir le désert ou de franchi
 title_author: Antoine de Saint-Exupéry (Le Petit Prince)
 technique: Huile sur toile
 dimensions: 70x70
-price: 9999
+price: 750
 image: 20230804-70x70.JPG
 author: Garanse
 tags:

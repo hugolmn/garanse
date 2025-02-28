@@ -9,9 +9,8 @@ price: 750
 image: 20231214-60x73.JPG
 author: Garanse
 tags:
-  - Vert
   - Bleu
-  - Marron
+  - Orange
   
   
   

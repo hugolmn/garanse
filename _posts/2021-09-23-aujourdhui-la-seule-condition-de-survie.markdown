@@ -5,7 +5,7 @@ title_author: Alain Gras
 date: 2021-09-23
 technique: Huile sur toile 
 dimensions: 100x100
-price: 9999
+price: 1100
 image: 20210923-100x100.JPG
 author: Garanse
 tags:

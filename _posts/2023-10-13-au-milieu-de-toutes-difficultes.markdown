@@ -5,7 +5,7 @@ title_author: Albert Einstein
 date: 2023-10-13
 technique: Huile sur toile 
 dimensions: 81x65
-price: 9999
+price: 800
 image: 20231013-81x65.JPG
 author: Garanse
 tags:

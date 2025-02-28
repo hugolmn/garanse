@@ -5,7 +5,7 @@ title_author: Amin Maalouf
 date: 2023-11-23 
 technique: Huile sur toile
 dimensions: 80x80
-price: 9999
+price: 850
 image: 20231123-80x80.JPG
 author: Garanse
 tags:
