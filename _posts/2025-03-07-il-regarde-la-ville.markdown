@@ -6,7 +6,7 @@ date: 2025-03-07
 technique: Huile sur toile
 dimensions: 81x100
 price: 1000
-00image: 20250307-81x100.JPG
+image: 20250307-81x100.JPG
 author: Garanse
 tags:
   - Gris
