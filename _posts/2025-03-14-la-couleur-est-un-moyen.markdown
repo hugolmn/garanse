@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: La couleur est un moyen d'exercer une influence directe sur l'âme."  
+title: "La couleur est un moyen d'exercer une influence directe sur l'âme."  
 title_author: Wassily Kandinsky     
 date: 2025-03-14 
 technique: Huile sur toile
