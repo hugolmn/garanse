@@ -5,7 +5,7 @@ title_author: Paul Klee
 date: 2025-01-28
 technique: Huile sur toile
 dimensions: 60x73
-price: 750
+price: 
 image: 20250128-60x73.JPG
 author: Garanse
 tags:
