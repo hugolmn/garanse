@@ -1,0 +1,18 @@
+---
+layout: painting
+title:       
+title_author:  
+date: 2025-04-01
+technique: Huile sur toile
+dimensions: 20x20
+price: 90
+image: 20250401-20x20.JPG
+author: Garanse
+tags:
+  - Bleu
+  
+  
+  
+---
+![Image]({{ page.image | prepend: site.baseurl}})
+
