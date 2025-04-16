@@ -11,7 +11,7 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
-    ffi (1.17.1)
+    ffi (1.17.2)
     forwardable-extended (2.6.0)
     google-protobuf (4.30.2)
       bigdecimal
@@ -62,7 +62,7 @@ GEM
     rexml (3.4.1)
     rouge (4.5.1)
     safe_yaml (1.0.5)
-    sass-embedded (1.86.1)
+    sass-embedded (1.86.3)
       google-protobuf (~> 4.30)
       rake (>= 13)
     terminal-table (3.0.2)
@@ -85,4 +85,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   2.6.6
+   2.6.8
