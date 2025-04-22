@@ -10,8 +10,7 @@ image: 20250415-30x30.JPG
 author: Garanse
 tags:
   - Bleu
-  - Vert
-  - Jaune
+  - Rouge
   
   
   

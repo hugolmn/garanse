@@ -10,8 +10,7 @@ image: 20250416-60x60.JPG
 author: Garanse
 tags:
   - Bleu
-  - Vert
-  - Jaune
+  - Rouge
   
   
   
