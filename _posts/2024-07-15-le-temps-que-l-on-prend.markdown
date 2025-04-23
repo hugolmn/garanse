@@ -5,7 +5,7 @@ title_author: Lao Tseu
 date: 2024-07-15
 technique: Huile sur toile 
 dimensions: 22x27
-price: 150
+price: 
 image: 20240715-22x27.JPG 
 author: Garanse
 tags:
