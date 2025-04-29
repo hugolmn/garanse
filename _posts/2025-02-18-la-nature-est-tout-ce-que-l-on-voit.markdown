@@ -5,7 +5,7 @@ title_author: George Sand
 date: 2025-02-18
 technique: Huile sur toile
 dimensions: 92x65
-price: 900
+price: 
 image: 20250218-92x65.JPG
 author: Garanse
 tags:
