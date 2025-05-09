@@ -5,7 +5,7 @@ title_author: Sonia Lahsaini
 date: 2025-04-22
 technique: Huile sur toile
 dimensions: 20x40
-price: 280
+price: 220
 image: 20250422-20x40.JPG
 author: Garanse
 tags:
