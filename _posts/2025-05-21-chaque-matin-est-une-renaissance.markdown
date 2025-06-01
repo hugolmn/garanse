@@ -5,7 +5,7 @@ title_author: Catherine Rambert
 date: 2025-05-21
 technique: Huile sur toile
 dimensions: 20x20
-price: 90
+price: 
 image: 20250521-20x20.JPG
 author: Garanse
 tags:
