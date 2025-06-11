@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: « Courir au-delà des mers, c’est changer de climat, mais non changer de cœur. »       
+title: "Courir au-delà des mers, c’est changer de climat, mais non changer de cœur."      
 title_author: Horace 
 date: 2025-04-01
 technique: Huile sur toile
