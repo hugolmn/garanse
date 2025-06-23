@@ -5,7 +5,7 @@ title_author: Paul Valéry
 date: 2025-02-26 
 technique: Huile sur toile
 dimensions: 30x30
-price: 300
+price: 
 image: 20250226-30x30.JPG
 author: Garanse
 tags:
