@@ -9,7 +9,7 @@ price: 150
 image: 20250624-19x27B.JPG
 author: Garanse
 tags:
-  - Bleu
+  - Marines
   
   
   
