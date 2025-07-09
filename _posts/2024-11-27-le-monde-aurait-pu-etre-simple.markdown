@@ -5,7 +5,7 @@ title_author: André Malraux
 date: 2024-11-27
 technique: Huile sur toile 
 dimensions: diam 50
-price: 500
+price: 
 image: 20241127-O50.JPG 
 author: Garanse
 tags:
