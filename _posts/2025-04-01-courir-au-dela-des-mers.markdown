@@ -5,7 +5,7 @@ title_author: Horace
 date: 2025-04-01
 technique: Huile sur toile
 dimensions: 20x20
-price: 90
+price: 
 image: 20250401-20x20.JPG
 author: Garanse
 tags:
