@@ -10,7 +10,7 @@ image: 20250712-22x27.JPG
 author: Garanse
 tags:
   - Bleu
-  
+  - Marines
   
   
   
