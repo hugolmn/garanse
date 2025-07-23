@@ -1,15 +1,15 @@
 ---
 layout: painting
-title: "L'indifférence n'est pas un début, c'est une fin. Et c'est toujours l'ami de l'ennemi." 
-title_author: Elie Wiesel    
-date: 2025-07-18
+title: "Homme libre, toujours tu chériras la mer." 
+title_author: Charles Baudelaire   
+date: 2025-07-15
 technique: Huile sur toile
-dimensions: 60x73
-price: 750
-image: 20250718-60x73.JPG
+dimensions: 20x20
+price: 80
+image: 20250715-20x20.JPG
 author: Garanse
 tags:
-  - Gris
+  - Bleu
   
   
   
