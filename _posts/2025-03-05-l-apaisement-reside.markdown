@@ -5,7 +5,7 @@ title_author: Dalaï Lama
 date: 2025-03-05 
 technique: Huile sur toile
 dimensions: 22x27
-price: 150
+price: 
 image: 20250305-22x27.JPG
 author: Garanse
 tags:
