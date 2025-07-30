@@ -1,7 +1,7 @@
 ---
 layout: painting
 title: "L'atmosphère est mon sujet." 
-title_author:J.M.W.Turner  
+title_author: J.M.W.Turner  
 date: 2025-07-29
 technique: Huile sur toile
 dimensions: O30
