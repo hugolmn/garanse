@@ -1,0 +1,25 @@
+---
+layout: painting
+title: "La clarté c'est une juste répartition d'ombres et de lumière." 
+title_author: Goethe  
+date: 2025-07-29
+technique: Huile sur toile
+dimensions: 18x24
+price: 120
+image: 20250729-18x24.JPG
+author: Garanse
+tags:
+  - Marron
+ 
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+---
+![Image]({{ page.image | prepend: site.baseurl}})
+

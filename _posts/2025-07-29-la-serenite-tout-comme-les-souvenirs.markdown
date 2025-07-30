@@ -1,16 +1,17 @@
 ---
 layout: painting
-title: "Homme libre, toujours tu chériras la mer." 
-title_author: Charles Baudelaire   
-date: 2025-07-15
+title: "La sérénité, tout comme les souvenirs, n'a pas de prix." 
+title_author:Leo Nardecchia  
+date: 2025-07-29
 technique: Huile sur toile
 dimensions: 20x20
-price: 80
-image: 20250715-20x20B.JPG
+price: 110
+image: 20250729-20x20.JPG
 author: Garanse
 tags:
   - Bleu
   - Marines
+  
   
   
   
