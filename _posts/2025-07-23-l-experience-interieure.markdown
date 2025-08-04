@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "L'expérience intérieure est une éruption. elle emporte, elle ouvre." 
+title: "L'expérience intérieure est une éruption. Elle emporte, elle ouvre." 
 title_author: Georges Bataille    
 date: 2025-07-23
 technique: Huile sur toile

@@ -5,7 +5,7 @@ title_author: Theillard de Chardin
 date: 2024-12-14
 technique: Huile sur toile 
 dimensions: 80x80
-price: 850
+price: 
 image: 20241214-80x80.JPG 
 author: Garanse
 tags:
