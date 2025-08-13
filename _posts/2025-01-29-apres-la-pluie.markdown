@@ -5,7 +5,7 @@ title_author: Joyce Minck
 date: 2025-01-29
 technique: Huile sur toile
 dimensions: 40x120
-price: 800
+price: 
 image: 20250129-40x120.JPG
 author: Garanse
 tags:

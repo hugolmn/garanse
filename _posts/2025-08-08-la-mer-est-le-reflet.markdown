@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: La mer est le reflet de l'âme, calme ou tourmentée selon le ciel. " 
+title: "La mer est le reflet de l'âme, calme ou tourmentée selon le ciel." 
 title_author: George Sand
 date: 2025-08-08
 technique: Huile sur toile
