@@ -5,7 +5,7 @@ title_author: Marc Levy
 date: 2025-08-05
 technique: Huile sur toile
 dimensions: 80x80
-price: 850
+price: 
 image: 20250805-80x80.JPG
 author: Garanse
 tags:
