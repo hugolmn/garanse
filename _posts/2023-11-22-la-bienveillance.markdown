@@ -5,7 +5,7 @@ title_author:  Régis Carlo
 date: 2023-11-22
 technique: Huile sur toile
 dimensions: 30x30
-price: 300
+price: 
 image: 20231122-30x30.JPG
 author: Garanse
 tags:

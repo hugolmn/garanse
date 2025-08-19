@@ -5,7 +5,7 @@ title_author: Leo Nardecchia
 date: 2025-07-29
 technique: Huile sur toile
 dimensions: 20x20
-price: 110
+price: 
 image: 20250729-20x20.JPG
 author: Garanse
 tags:
