@@ -5,7 +5,7 @@ title_author: Friedrich Nietzsche
 date: 2025-08-06
 technique: Huile sur toile
 dimensions: 90x90
-price: 1000
+price: 1100
 image: 20250806-90x90.JPG
 author: Garanse
 tags:

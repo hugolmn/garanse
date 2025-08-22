@@ -5,7 +5,7 @@ title_author: Kandinsky
 date: 2025-02-25
 technique: Huile sur toile
 dimensions: 89x116
-price: 1400
+price: 
 image: 20250225-89x116.JPG
 author: Garanse
 tags:

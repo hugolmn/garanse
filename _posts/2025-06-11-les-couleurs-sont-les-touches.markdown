@@ -5,7 +5,7 @@ title_author: Kandinsky
 date: 2025-06-11
 technique: Huile sur toile
 dimensions: 90x90
-price: 1000
+price: 1100
 image: 20250611-90x90.JPG
 author: Garanse
 tags:
