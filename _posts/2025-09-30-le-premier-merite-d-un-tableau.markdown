@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: 'Le premier mérite d'un tableau est d'être une fête pour l'œil." 
+title: "Le premier mérite d'un tableau est d'être une fête pour l'œil." 
 title_author: Eugène Delacroix  
 date: 2025-09-30
 technique: Huile sur toile
