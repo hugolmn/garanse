@@ -5,7 +5,7 @@ title_author: Ray Bradbury
 date: 2025-10-15
 technique: Huile sur toile
 dimensions: 60x60
-price: 650
+price: 
 image: 20251015-60x60.JPG
 author: Garanse
 tags:
