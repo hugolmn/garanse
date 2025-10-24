@@ -1,12 +1,12 @@
 ---
 layout: painting
-title: "Naître c'est recevoir le monde en héritage, et apprendre à le regarder avec des yeux neufs." 
-title_author: Jacques Salomé 
-date: 2025-10-21
+title: "Tout ce qui vient au monde vient dans la douleur et dans la lumière."  
+title_author: Christian Bobin
+date: 2025-10-24
 technique: Huile sur toile
 dimensions: 60x60
-price: 
-image: 20251021-60x60.JPG
+price: 650 
+image: 20251024-60x60.JPG
 author: Garanse
 tags:
   - Bleu 
