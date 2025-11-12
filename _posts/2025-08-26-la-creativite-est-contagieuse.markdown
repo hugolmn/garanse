@@ -1,7 +1,7 @@
 ---
 layout: painting
 title: "La créativité est contagieuse. Transmettez-la."
-title_author: Albert Eintein 
+title_author: Albert Einstein 
 date: 2025-08-26
 technique: Huile sur toile
 dimensions: 81x65
