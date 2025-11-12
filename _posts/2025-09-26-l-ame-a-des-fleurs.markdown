@@ -5,7 +5,7 @@ title_author: Victor Hugo - Les contemplations
 date: 2025-09-26
 technique: Huile sur toile
 dimensions: O50
-price: 500
+price:
 image: 20250926-O50.JPG
 author: Garanse
 tags:

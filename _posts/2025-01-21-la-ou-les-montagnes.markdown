@@ -5,7 +5,7 @@ title_author:  Anonyme
 date: 2025-01-21
 technique: Huile sur toile
 dimensions: 60x73
-price: 750
+price: 
 image: 20250121-60x73.JPG
 author: Garanse
 tags:

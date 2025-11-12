@@ -5,7 +5,7 @@ title_author: Christian Bobin
 date: 2025-09-20
 technique: Huile sur toile
 dimensions: 20x20
-price: 110
+price: 120
 image: 20250920-20x20.JPG
 author: Garanse
 tags:
