@@ -5,7 +5,7 @@ title_author: Kandinsky
 date: 2025-08-12
 technique: Huile sur toile
 dimensions: 70x70
-price: 750
+price: 
 image: 20250812-70x70.JPG
 author: Garanse
 tags:
