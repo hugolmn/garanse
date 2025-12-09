@@ -5,7 +5,7 @@ title_author: Lewis Mumford
 date: 2025-03-13 
 technique: Huile sur toile
 dimensions: O60
-price: 650
+price: 
 image: 20250313-O60.JPG
 author: Garanse
 tags:
