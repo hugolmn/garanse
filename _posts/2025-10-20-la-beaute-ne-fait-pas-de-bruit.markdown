@@ -5,7 +5,7 @@ title_author: Christian Bobin
 date: 2025-10-20
 technique: Huile sur toile
 dimensions: O60
-price: 650
+price: 
 image: 20251020-O60.JPG
 author: Garanse
 tags:
