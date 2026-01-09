@@ -4,7 +4,7 @@ title: "La moindre fleur des prés apporte à l'abandonné le réconfort de son 
 title_author: Christian Bobin
 date: 2025-09-20
 technique: Huile sur toile
-dimensions: O30
+dimensions: Diam 30
 price: 300
 image: 20250920-O30.JPG
 author: Garanse
