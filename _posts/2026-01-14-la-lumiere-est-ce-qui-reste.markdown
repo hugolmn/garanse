@@ -6,7 +6,7 @@ date: 2026-01-14
 technique: Huile sur toile
 dimensions: 81x65
 price: 800
-image: 20260114-81x65
+image: 20260114-81x65.jpg
 author: Garanse
 tags:
   - Marron
