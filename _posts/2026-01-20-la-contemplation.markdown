@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: « La contemplation est la plus haute expression de la vie intellectuelle et spirituelle. » 
+title: «La contemplation est la plus haute expression de la vie intellectuelle et spirituelle.» 
 title_author: Thomas Merton
 date: 2026-01-20
 technique: Huile sur toile
