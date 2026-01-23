@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "Plus le bleu est profond, plus il appelle l’homme vers l’infini, éveille en lui le désir du pur et, finalement, du surnaturel." (Du spirituel dans l’art)
+title: "Plus le bleu est profond, plus il appelle l’homme vers l’infini, éveille en lui le désir du pur et, finalement, du surnaturel." 
 title_author: Vassily Kandinsky 
 date: 2026-01-23
 technique: Huile sur toile
