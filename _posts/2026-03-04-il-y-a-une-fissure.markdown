@@ -1,16 +1,16 @@
 ---
 layout: painting
-title: "La douceur est invincible." 
-title_author: Marc Aurèle
-date: 2026-02-04
+title: "Il y a une fissure en toute chose, c'est ainsi qu'entre la lumière." 
+title_author: Leonard Cohen 
+date: 2026-03-04
 technique: Huile sur toile
 dimensions: 80x80
 price: 850
-image: 20260204-80x80.JPG
+image: 20260304-80x80.JPG
 author: Garanse
 tags:
   - Rose
-  - Violet
+  - Jaune
   
   
  
