@@ -5,7 +5,7 @@ title_author: Antoine de Saint-Exupéry
 date: 2025-06-24
 technique: Huile sur toile
 dimensions: 19x27
-price: 150
+price: 
 image: 20250624-19x27.JPG
 author: Garanse
 tags:
