@@ -5,7 +5,7 @@ title_author: Paul Verlaine
 date: 2026-04-21
 technique: Huile sur toile
 dimensions: 22x27
-price: 250
+price: 150
 image: 20260421-22x27.JPG
 author: Garanse
 tags:
