@@ -9,7 +9,7 @@ price:
 image: 20250401-20x20.JPG
 author: Garanse
 tags:
-  - Bleu
+  - Marines
   
   
   
