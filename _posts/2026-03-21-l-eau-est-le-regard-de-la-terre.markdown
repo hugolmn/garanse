@@ -5,7 +5,7 @@ title_author: Gaston Bachelard
 date: 2026-03-21
 technique: Huile sur toile
 dimensions: 70x70
-price: 750
+price: 
 image: 20260321-70x70.JPG
 author: Garanse
 tags:
