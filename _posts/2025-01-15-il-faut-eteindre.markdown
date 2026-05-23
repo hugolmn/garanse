@@ -5,7 +5,7 @@ title_author: Héraclite d'Éphèse
 date: 2025-01-15
 technique: Huile sur toile
 dimensions: 50x100
-price: 800
+price: 850
 image: 20250115-50x100.JPG
 author: Garanse
 tags:

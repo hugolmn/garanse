@@ -5,7 +5,7 @@ title_author: d'après Khalil Gibran
 date: 2026-04-14
 technique: Huile sur toile
 dimensions: 50x100
-price: 800
+price: 850
 image: 20260414-50x100.JPG
 author: Garanse
 tags:

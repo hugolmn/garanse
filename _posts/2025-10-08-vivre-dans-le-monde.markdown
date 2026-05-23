@@ -5,7 +5,7 @@ title_author: Jiddu Krishnamurti
 date: 2025-10-08
 technique: Huile sur toile
 dimensions: 50x100
-price: 850
+price: 800
 image: 20251008-50x100.JPG
 author: Garanse
 tags:

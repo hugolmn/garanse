@@ -1,16 +1,17 @@
 ---
 layout: painting
-title: "Une fleur est éphémère, mais son parfum demeure dans l'âme de celui qui l'a respirée." 
-title_author: Christian Bobin 
-date: 2025-09-20
+title: "Chaque fleur est une âme à la Nature éclose." 
+title_author: Gérard de Nerval
+date: 2026-05-22
 technique: Huile sur toile
 dimensions: 20x20
-price: 
-image: 20250920-20x20.JPG
+price: 120
+image: 20260522-20x20.JPG
 author: Garanse
 tags:
-  - Bleu 
+  - Bleu
   - Rose
+  - Orange
   - Jaune
   
   
