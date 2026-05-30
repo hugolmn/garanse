@@ -5,7 +5,7 @@ title_author: Jules Renard
 date: 2025-06-28
 technique: Huile sur toile
 dimensions: 20x20
-price: 120 
+price: 800
 image: 20250528-20x20.JPG
 author: Garanse
 tags:
