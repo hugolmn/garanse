@@ -5,7 +5,7 @@ title_author: — L’Alchimiste, Paolo Coelho
 date: 2026-05-23
 technique: Huile sur toile de lin
 dimensions: 50x100
-price: 120
+price: 800
 image: 20260523-50x100.JPG
 author: Garanse
 tags:
