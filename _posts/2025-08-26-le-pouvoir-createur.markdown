@@ -5,7 +5,7 @@ title_author: Jules Verne
 date: 2025-08-26
 technique: Huile sur toile
 dimensions: 89x116
-price: 1400
+price: 
 image: 20250826-89x116.JPG
 author: Garanse
 tags:

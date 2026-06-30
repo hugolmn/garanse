@@ -5,7 +5,7 @@ title_author: Marcel Proust
 date: 2026-03-17
 technique: Huile sur toile
 dimensions: O50
-price: 500
+price: 
 image: 20260317-O50.JPG
 author: Garanse
 tags:

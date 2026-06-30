@@ -5,7 +5,7 @@ title_author: Jean Giono
 date: 2026-02-17
 technique: Huile sur toile
 dimensions: 60x80
-price: 800
+price: 
 image: 20260217-60x80.JPG
 author: Garanse
 tags:

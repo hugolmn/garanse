@@ -5,7 +5,7 @@ title_author: Eugène Delacroix
 date: 2025-07-16
 technique: Huile sur toile
 dimensions: 70x70
-price: 750
+price: 
 image: 20250716-70x70.JPG
 author: Garanse
 tags:

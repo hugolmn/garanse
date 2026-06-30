@@ -5,7 +5,7 @@ title_author: Albert Schweitzer
 date: 2026-06-16
 technique: Huile sur toile
 dimensions: 20x20
-price: 120
+price: 
 image: 20260616-20x20.JPG
 author: Garanse
 tags:

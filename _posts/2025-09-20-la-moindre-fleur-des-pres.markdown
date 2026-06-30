@@ -5,7 +5,7 @@ title_author: Christian Bobin
 date: 2025-09-20
 technique: Huile sur toile
 dimensions: Diam 30
-price: 300
+price: 
 image: 20250920-O30.JPG
 author: Garanse
 tags:

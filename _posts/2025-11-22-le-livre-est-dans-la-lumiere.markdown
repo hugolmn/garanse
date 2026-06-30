@@ -5,7 +5,7 @@ title_author: Victor Hugo
 date: 2025-11-22
 technique: Huile sur toile
 dimensions: Diam 50
-price: 500
+price: 
 image: 20251122-O50.JPG
 author: Garanse
 tags:
