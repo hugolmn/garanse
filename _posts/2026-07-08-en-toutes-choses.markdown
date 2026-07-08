@@ -6,7 +6,7 @@ date: 2026-07-08
 technique: Huile sur toile
 dimensions: 65x81
 price: 800
-image: 20260706-65x81.JPG
+image: 20260708-65x81.JPG
 author: Garanse
 tags:
   - Bleu
