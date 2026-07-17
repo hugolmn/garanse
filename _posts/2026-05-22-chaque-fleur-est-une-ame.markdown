@@ -5,7 +5,7 @@ title_author: Gérard de Nerval
 date: 2026-05-22
 technique: Huile sur toile
 dimensions: 20x20
-price: 120
+price: 
 image: 20260522-20x20.JPG
 author: Garanse
 tags:
