@@ -5,7 +5,7 @@ title_author: Léon Tolstoï
 date: 2026-03-31
 technique: Huile sur toile
 dimensions: O30
-price: 250
+price: 
 image: 20260331-O30.JPG
 author: Garanse
 tags:
