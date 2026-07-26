@@ -6,7 +6,7 @@ date: 2026-07-24
 technique: Huile sur toile
 dimensions: 50x61
 price: 600
-image: 20260724.50x61JPG
+image: 20260724-50x61.JPG
 author: Garanse
 tags:
   - Vert
