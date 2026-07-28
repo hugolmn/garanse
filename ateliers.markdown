@@ -29,8 +29,8 @@ Alors laissez-vous tenter par l'aventure ! Vous serez agréablement surpris·es 
 
 ### Tarifs
 
-- 50€ / personne en individuel
-- 45€ / personne en duo
+- 55€/personne en individuel
+- 50€/personne en duo
 - Possibilité d'offrir des bons ***"Atelier Cadeau"***
 
 ### Lieux
