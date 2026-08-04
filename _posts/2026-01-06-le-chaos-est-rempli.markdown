@@ -5,7 +5,7 @@ title_author: Coline Serreau
 date: 2026-01-06
 technique: Huile sur toile
 dimensions: 81x65
-price: 800
+price: 
 image: 20260106-81x65.JPG
 author: Garanse
 tags:

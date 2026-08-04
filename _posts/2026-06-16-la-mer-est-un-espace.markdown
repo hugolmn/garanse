@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "La mer est un espace de rigueur est de liberté."        
+title: "La mer est un espace de rigueur et de liberté."        
 title_author: Victor Hugo        
 date: 2026-06-16
 technique: Huile sur toile
