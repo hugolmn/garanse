@@ -5,7 +5,7 @@ title_author:  Frédéric Lenoir
 date: 2024-10-11
 technique: Huile sur toile 
 dimensions: 81x65
-price: 800
+price: 
 image: 20241011-81x65.JPG 
 author: Garanse
 tags:
