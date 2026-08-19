@@ -2,7 +2,7 @@
 layout: painting
 title: "Les parfums, les couleurs et les sons se répondent." 
 title_author: Charles Baudelaire   
-date: 2023-08-11
+date: 2026-08-11
 technique: Huile sur toile
 dimensions: 60x73
 price: 750
