@@ -5,7 +5,7 @@ title_author: Aristote
 date: 2026-07-08
 technique: Huile sur toile
 dimensions: 81x65
-price: 800
+price:
 image: 20260708-81x65.JPG
 author: Garanse
 tags:

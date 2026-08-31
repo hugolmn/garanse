@@ -5,7 +5,7 @@ title_author: Baudelaire
 date: 2026-07-11
 technique: Huile sur toile
 dimensions: 20x20
-price: 120
+price: 
 image: 20260711-20x20(2).JPG
 author: Garanse
 tags:
