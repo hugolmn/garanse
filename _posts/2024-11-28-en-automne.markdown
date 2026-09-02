@@ -5,7 +5,7 @@ title_author: Khalil Gibran
 date: 2024-11-28
 technique: Huile sur toile 
 dimensions: 80x80
-price: 850
+price: 900
 image: 20241128-80x80.JPG 
 author: Garanse
 tags:

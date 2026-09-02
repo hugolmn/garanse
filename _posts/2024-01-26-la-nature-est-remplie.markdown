@@ -5,7 +5,7 @@ title_author: Joëlle Laurencin
 date: 2024-01-26
 technique: Huile sur toile 
 dimensions: 70x70
-price: 750
+price: 800
 image: 20240126-70x70.JPG 	
 author: Garanse
 tags:

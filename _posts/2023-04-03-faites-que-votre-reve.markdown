@@ -5,7 +5,7 @@ title_author: Antoine de Saint-Exupéry
 date: 2023-04-03
 technique: Huile sur toile 
 dimensions: 80x80
-price: 850
+price: 900
 image: 20230403-80x80.JPG
 author: Garanse
 tags:

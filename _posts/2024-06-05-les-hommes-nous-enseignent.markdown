@@ -5,7 +5,7 @@ title_author: James Aggrey
 date: 2024-06-05
 technique: Huile sur toile 
 dimensions: 80x80
-price: 850
+price: 900
 image: 20240605-80x80.JPG 
 author: Garanse
 tags:

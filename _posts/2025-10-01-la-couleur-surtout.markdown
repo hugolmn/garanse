@@ -5,7 +5,7 @@ title_author: Matisse
 date: 2025-10-01
 technique: Huile sur toile
 dimensions: 90x90
-price: 1100
+price: 1200
 image: 20251001-90x90.JPG
 author: Garanse
 tags:

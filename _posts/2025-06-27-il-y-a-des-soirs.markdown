@@ -5,7 +5,7 @@ title_author: Christian Bobin
 date: 2025-06-27
 technique: Huile sur toile
 dimensions: 80x80
-price: 850
+price: 900
 image: 20250627-80x80B.JPG
 author: Garanse
 tags:

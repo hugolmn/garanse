@@ -5,11 +5,12 @@ title_author: Italo Calvino, Les Villes invisibles
 date: 2026-07-22
 technique: Huile sur toile
 dimensions: 80x80
-price: 850
+price: 900
 image: 20260722-80x80.JPG
 author: Garanse
 tags:
   - Violet
+  - Bleu
   
   
   

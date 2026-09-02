@@ -5,7 +5,7 @@ title_author: Jean-Christophe Rufin
 date: 2025-03-21
 technique: Huile sur toile
 dimensions: 80x80
-price: 850
+price: 900
 image: 20250321-80x80.JPG
 author: Garanse
 tags:

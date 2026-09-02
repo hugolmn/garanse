@@ -5,7 +5,7 @@ title_author: Régis Carlo
 date: 2023-12-18
 technique: Huile sur toile 
 dimensions: 100x100
-price: 1200
+price: 1400
 image: 20231218-100x100.JPG
 author: Garanse
 tags:

@@ -5,7 +5,7 @@ title_author: Jean-Pierre Szymaniak
 date: 2024-10-18
 technique: Huile sur toile 
 dimensions: 80x80
-price: 850
+price: 900
 image: 20241018-80x80.JPG 
 author: Garanse
 tags:
