@@ -5,7 +5,7 @@ title_author: Platon
 date: 2025-01-10
 technique: Huile sur toile
 dimensions: 81x65
-price: 850
+price: 
 image: 20250110-81x65.JPG
 author: Garanse
 tags:
