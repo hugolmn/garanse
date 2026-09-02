@@ -5,7 +5,7 @@ title_author: Joëlle Laurencin
 date: 2024-10-23
 technique: Huile sur toile 
 dimensions: 50x100
-price: 850
+price: 900
 image: 20241023-50x100.JPG 
 author: Garanse
 tags:

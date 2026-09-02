@@ -5,7 +5,7 @@ title_author: Victor Hugo
 date: 2025-01-17
 technique: Huile sur toile
 dimensions: 92x65
-price: 900
+price: 1000
 image: 20250117-92x65.JPG
 author: Garanse
 tags:
