@@ -5,7 +5,7 @@ title_author: Eliphas Lévi
 date: 2026-09-01
 technique: Huile sur toile
 dimensions: 20x20
-price: 120
+price: 
 image: 20260901-20x20.JPG
 author: Garanse
 tags:
