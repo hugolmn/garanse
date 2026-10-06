@@ -5,7 +5,7 @@ title_author: Paulo Coelho
 date: 2026-09-16
 technique: Huile sur toile
 dimensions: 73x100
-price: 1200
+price: 1100
 image: 20260916-73x100.JPG
 author: Garanse
 tags:

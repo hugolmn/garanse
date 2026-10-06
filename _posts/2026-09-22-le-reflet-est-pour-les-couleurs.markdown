@@ -5,7 +5,7 @@ title_author: Joseph Joubert
 date: 2026-09-22
 technique: Huile sur toile
 dimensions: 92x73
-price: 900
+price: 950
 image: 20260922-92x73.JPG
 author: Garanse
 tags:
