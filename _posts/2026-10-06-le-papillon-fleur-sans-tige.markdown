@@ -6,7 +6,7 @@ date: 2026-10-06
 technique: Huile sur toile
 dimensions: 81x100
 price: 1200
-image: 20261006-81x100.JPG
+image: 20261006-81x100B.JPG
 author: Garanse
 tags:
   - Jaune
