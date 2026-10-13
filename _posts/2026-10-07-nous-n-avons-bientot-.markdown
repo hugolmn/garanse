@@ -1,7 +1,7 @@
 ---
 layout: painting
 title: "Nous n'avons bientôt plus que le ciel et les flots pour horizon."      
-title_author: Alphone de Lamartine   
+title_author: Alphonse de Lamartine   
 date: 2026-10-07
 technique: Huile sur toile
 dimensions: 30x30
