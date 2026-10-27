@@ -5,7 +5,7 @@ title_author: Alphonse de Lamartine
 date: 2026-10-12
 technique: Huile sur toile
 dimensions: 20x20
-price: 120
+price: 150
 image: 20261012-20x20.JPG
 author: Garanse
 tags:
