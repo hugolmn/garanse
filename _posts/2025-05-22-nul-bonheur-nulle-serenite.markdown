@@ -5,7 +5,7 @@ title_author: Friedrich Nietzsche
 date: 2025-05-22
 technique: Huile sur toile
 dimensions: 73x100
-price: 950
+price: 
 image: 20250522-73x100.JPG
 author: Garanse
 tags:
