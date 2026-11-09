@@ -5,7 +5,7 @@ title_author: Goethe
 date: 2026-07-24
 technique: Huile sur toile
 dimensions: 50x61
-price: 600
+price: 
 image: 20260724-50x61.JPG
 author: Garanse
 tags:

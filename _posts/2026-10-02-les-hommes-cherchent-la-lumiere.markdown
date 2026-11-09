@@ -5,7 +5,7 @@ title_author: Jean Tardieu
 date: 2026-10-02
 technique: Huile sur toile
 dimensions: 70x100
-price: 1100
+price: 
 image: 20261002-70x100.JPG
 author: Garanse
 tags:

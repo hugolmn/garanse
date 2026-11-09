@@ -5,7 +5,7 @@ title_author: Novalis
 date: 2026-03-24
 technique: Huile sur toile
 dimensions: 70x70
-price: 750
+price: 
 image: 20260324-70x70.JPG
 author: Garanse
 tags:

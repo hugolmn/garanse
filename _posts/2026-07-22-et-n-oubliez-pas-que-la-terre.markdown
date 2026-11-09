@@ -5,7 +5,7 @@ title_author: Khalil Gibran
 date: 2026-07-22
 technique: Huile sur toile
 dimensions: 30x30
-price: 300
+price: 
 image: 20260722-30x30.JPG
 author: Garanse
 tags:

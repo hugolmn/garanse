@@ -5,7 +5,7 @@ title_author: Ralph Waldo Emerson
 date: 2026-07-16
 technique: Huile sur toile
 dimensions: O30
-price: 300
+price: 
 image: 20260716-O30.JPG
 author: Garanse
 tags:

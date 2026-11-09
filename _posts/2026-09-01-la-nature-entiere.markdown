@@ -5,7 +5,7 @@ title_author: Alphonse Lamartine
 date: 2026-09-01
 technique: Huile sur toile
 dimensions: 60x60
-price: 650
+price: 
 image: 20260901-60x60.JPG
 author: Garanse
 tags:
